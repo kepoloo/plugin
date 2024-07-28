@@ -105,9 +105,9 @@ async def add_allbot(client, message):
         await message.reply(f"Error: {str(e)}")
 
 
-__MODULE__ = "Repo"
+__MODULE__ = "Source"
 __HELP__ = """
-## Repo Module
+## Repo Source Module
 
 This module provides utility commands for users to interact with the bot.
 
