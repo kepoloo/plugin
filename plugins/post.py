@@ -29,7 +29,7 @@ async def handle_post_command(_, message):
         )
 
 
-__MODULE__ = "Post"
+__MODULE__ = "Pᴏsᴛ"
 __HELP__ = """
 **Post Messages**
 

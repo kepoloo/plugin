@@ -261,7 +261,7 @@ async def userinfo(_, message):
             await message.reply_text(str(e))
 
 
-__MODULE__ = "User Info"
+__MODULE__ = "Usᴇʀ Iɴғᴏ"
 __HELP__ = """
 /info [user_id]: Get detailed information about a user.
 /userinfo [user_id]: Alias for /info.

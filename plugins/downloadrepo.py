@@ -46,7 +46,7 @@ def download_and_zip_repo(repo_url):
             shutil.rmtree(repo_path)
 
 
-__MODULE__ = "Repo"
+__MODULE__ = "Rᴇᴘᴏ"
 __HELP__ = """
 ## Commands Help
 

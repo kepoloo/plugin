@@ -48,7 +48,7 @@ async def unban_all(_, msg):
         )
 
 
-__MODULE__ = "Unbanall"
+__MODULE__ = "Uɴʙᴀɴᴀʟʟ"
 __HELP__ = """
 **Unban All**
 

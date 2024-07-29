@@ -99,7 +99,7 @@ async def cancelcmd(_, message):
         return
 
 
-__MODULE__ = "Tag All"
+__MODULE__ = "Tᴀɢ Aʟʟ"
 __HELP__ = """
 **Tag All Users**
 

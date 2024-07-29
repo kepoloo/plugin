@@ -54,7 +54,7 @@ async def refresh_cat(c, m: CallbackQuery):
         await m.edit_message_text("Failed to refresh cat picture 🙀")
 
 
-__MODULE__ = "Cat"
+__MODULE__ = "Cᴀᴛ"
 __HELP__ = """
 ## Cat Command
 

@@ -42,7 +42,7 @@ async def unmute_admin(client: Client, message: Message, _, chat_id):
     )
 
 
-__MODULE__ = "Vc-Mute"
+__MODULE__ = "Vᴄ-Mᴜᴛᴇ"
 __HELP__ = """
 **Voice Chat Moderation**
 

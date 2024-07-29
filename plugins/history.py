@@ -60,7 +60,7 @@ async def sg(client: Client, message: Message):
     await lol.delete()
 
 
-__MODULE__ = "History"
+__MODULE__ = "Hɪsᴛᴏʀʏ"
 __HELP__ = """
 ## History Commands Help
 

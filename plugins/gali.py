@@ -148,7 +148,7 @@ async def help(client: Client, message: Message):
     )
 
 
-__MODULE__ = "Gali"
+__MODULE__ = "Gᴀʟɪ"
 __HELP__ = """
 **𝐆𝐚𝐥𝐢 𝐂𝐨𝐦𝐦𝐚𝐧𝐝**
 

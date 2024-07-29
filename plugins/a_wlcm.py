@@ -171,7 +171,7 @@ async def greet_new_members(_, member: ChatMemberUpdated):
         return
 
 
-__MODULE__ = "A-Wlcm"
+__MODULE__ = "A-Wʟᴄᴍ"
 __HELP__ = """
 ## Auto-Welcome Module Commands
 

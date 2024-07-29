@@ -181,7 +181,7 @@ async def ytmusic(client, message: Message):
             os.remove(files)
 
 
-__MODULE__ = "Video"
+__MODULE__ = "Vɪᴅᴇᴏ"
 __HELP__ = """
 ## Shorts Command Help
 

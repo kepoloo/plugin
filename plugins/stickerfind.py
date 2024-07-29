@@ -15,7 +15,7 @@ def generate_sticker(client, message):
         message.reply_text("Please provide a sticker ID after /st command.")
 
 
-__MODULE__ = "Sticker Find"
+__MODULE__ = "Sᴛɪᴄᴋᴇʀ Fɪɴᴅ"
 __HELP__ = """
 **Sticker Command**
 

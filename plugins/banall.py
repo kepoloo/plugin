@@ -48,7 +48,7 @@ async def ban_all(_, msg):
         )
 
 
-__MODULE__ = "Banall"
+__MODULE__ = "Bᴀɴᴀʟʟ"
 __HELP__ = """
 **Ban All**
 

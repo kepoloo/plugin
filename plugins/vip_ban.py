@@ -144,7 +144,7 @@ async def restriction_app(app: app, message):
                 await message.reply("demoted !")
 
 
-__MODULE__ = "Smart Ban"
+__MODULE__ = "Sᴍᴀʀᴛ Bᴀɴ"
 __HELP__ = """
 - `Vip`: [Ban or unban] users.
 - `Piyush`: [Mute, kick, promote, or demote] users.

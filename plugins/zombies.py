@@ -179,7 +179,7 @@ async def bots(client, message):
 
 # ------------------------------------------------------------------------------- #
 
-__MODULE__ = "Zombies"
+__MODULE__ = "Zᴏᴍʙɪᴇs"
 __HELP__ = """
 ## Admin Tools Module
 

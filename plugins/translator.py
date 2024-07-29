@@ -1,4 +1,4 @@
-__MODULE__ = "Translator"
+__MODULE__ = "Tʀᴀɴsʟᴀᴛᴏʀ"
 __HELP__ = """
 This module provides commands to translate messages.
 

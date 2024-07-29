@@ -40,7 +40,7 @@ async def pinterest(_, message):
         return await message.reply(f"ᴇʀʀᴏʀ : {e}")
 
 
-__MODULE__ = "Image Search"
+__MODULE__ = "Iᴍᴀɢᴇ Sᴇᴀʀᴄʜ"
 __HELP__ = """
 **Pinterest Image Search**
 

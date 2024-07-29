@@ -48,7 +48,7 @@ async def get_link_group(client, message):
         pass
 
 
-__MODULE__ = "Telegraph"
+__MODULE__ = "Tᴇʟᴇɢʀᴀᴘʜ"
 __HELP__ = """
 This module provides commands to upload media to Telegraph.
 

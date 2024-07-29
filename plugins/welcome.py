@@ -236,7 +236,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
             return
 
 
-__MODULE__ = "Welcome"
+__MODULE__ = "Wᴇʟᴄᴏᴍᴇ"
 __HELP__ = """
 ## Welcome Module
 

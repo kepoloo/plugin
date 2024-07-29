@@ -315,7 +315,7 @@ async def cancel_spam(client, message):
         return await message.reply("♦ 𝐒𝐭𝐨𝐩𝐩𝐞𝐝..♦")
 
 
-__MODULE__ = "Single Tag"
+__MODULE__ = "Sɪɴɢʟᴇ Tᴀɢ"
 __HELP__ = """
 **Tag All Users One By One**
 

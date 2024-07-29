@@ -122,7 +122,7 @@ async def start(client: Client, message: Message):
     )
 
 
-__MODULE__ = "Active"
+__MODULE__ = "Aᴄᴛɪᴠᴇ"
 __HELP__ = """
 ## Active Voice/Video Chats Commands
 

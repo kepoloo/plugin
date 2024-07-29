@@ -60,7 +60,7 @@ async def github(_, message):
     )
 
 
-__MODULE__ = "Github"
+__MODULE__ = "Gɪᴛʜᴜʙ"
 __HELP__ = """
 ## GitHub Commands Help
 

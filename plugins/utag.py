@@ -69,7 +69,7 @@ async def stop_tagging(_, message):
         await message.reply_text("**ᴜᴛᴀɢ ᴘʀᴏᴄᴇss ɪs ɴᴏᴛ ᴀᴄᴛɪᴠᴇ**")
 
 
-__MODULE__ = "Unlimited Tag"
+__MODULE__ = "Uɴʟɪᴍɪᴛᴇᴅ Tᴀɢ"
 __HELP__ = """
 **Unlimited Tagging**
 

@@ -114,7 +114,7 @@ async def paste_func(_, message):
         await m.edit("**Unsupported file type. Only text files can be pasted.**")
 
 
-__MODULE__ = "Paste"
+__MODULE__ = "Pᴀsᴛᴇ"
 __HELP__ = """
 **Paste Command**
 

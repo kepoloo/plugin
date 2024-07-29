@@ -51,7 +51,7 @@ async def get_thumbnail_command(client, message):
         print(f"Error: {e}")
 
 
-__MODULE__ = "Thumb"
+__MODULE__ = "Tʜᴜᴍʙ"
 __HELP__ = """
 ## Thumbnail Commands Help
 

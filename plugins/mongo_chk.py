@@ -62,7 +62,7 @@ async def mongo_command(client, message: Message):
         await message.reply("𝗜𝗻𝘃𝗮𝗹𝗶𝗱 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 𝗨𝗥𝗟 𝗳𝗼𝗿𝗺𝗮𝘁💔")
 
 
-__MODULE__ = "Mongo"
+__MODULE__ = "Mᴏɴɢᴏ"
 __HELP__ = """
 ## MongoDB Commands Help
 

@@ -10,7 +10,7 @@ async def dice(c, m: Message):
     await dicen.reply_text("results is {0}".format(dicen.dice.value))
 
 
-__MODULE__ = "Fun"
+__MODULE__ = "Fᴜɴ"
 __HELP__ = """
 ## Fun Commands Help
 

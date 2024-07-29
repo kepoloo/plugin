@@ -105,7 +105,7 @@ async def add_allbot(client, message):
         await message.reply(f"Error: {str(e)}")
 
 
-__MODULE__ = "Source"
+__MODULE__ = "Sᴏᴜʀᴄᴇ"
 __HELP__ = """
 ## Repo Source Module
 

@@ -57,7 +57,7 @@ async def user_command(client, message):
     await app.send_document(message.chat.id, "members.txt")
 
 
-__MODULE__ = "Users"
+__MODULE__ = "Usᴇʀs"
 __HELP__ = """
 /user: Get a list of all members in the chat.
 

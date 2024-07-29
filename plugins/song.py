@@ -209,7 +209,7 @@ async def instagram_reel(client, message):
         )
 
 
-__MODULE__ = "Song"
+__MODULE__ = "Sᴏɴɢ"
 __HELP__ = """
 ## Song Commands
 

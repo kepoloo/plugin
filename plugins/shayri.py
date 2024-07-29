@@ -97,7 +97,7 @@ async def help(client: Client, message: Message):
     )
 
 
-__MODULE__ = "Shayari"
+__MODULE__ = "Sʜᴀʏᴀʀɪ"
 __HELP__ = """
 /gf, /bf, /shayri, /sari, /shari, /love: Get a random Shayari.
 

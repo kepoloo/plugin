@@ -135,7 +135,7 @@ async def sticker_id(app: app, msg):
 
 #####
 
-__MODULE__ = "Sticker"
+__MODULE__ = "Sᴛɪᴄᴋᴇʀ"
 __HELP__ = """
 This module provides commands for image processing.
 

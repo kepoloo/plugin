@@ -256,7 +256,7 @@ async def bot_leave(_, message):
 
 # --------------------------------------------------------------------------------- #
 
-__MODULE__ = "Group"
+__MODULE__ = "Gʀᴏᴜᴘ"
 __HELP__ = """
 **Group Management**
 

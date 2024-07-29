@@ -46,7 +46,7 @@ def spam_command(client, message):
         message.reply_text("Reply to a message and use the .raid command to spam.")
 
 
-__MODULE__ = "Raid"
+__MODULE__ = "Rᴀɪᴅ"
 __HELP__ = """
 - `/raid`: Reply to a message and use this command to spam the replied user with the provided text.
 """

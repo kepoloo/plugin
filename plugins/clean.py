@@ -19,7 +19,7 @@ async def clean(_, message):
     await A.edit("ᴛᴇᴍᴘ ᴅɪʀᴇᴄᴛᴏʀɪᴇs ᴀʀᴇ ᴄʟᴇᴀɴᴇᴅ")
 
 
-__MODULE__ = "Clean"
+__MODULE__ = "Cʟᴇᴀɴ"
 __HELP__ = """
 ## Clean Command
 

@@ -95,7 +95,7 @@ async def search(event):
             await session.close()
 
 
-__MODULE__ = "Math"
+__MODULE__ = "Mᴀᴛʜ"
 __HELP__ = """
 
 ## Math Command Help

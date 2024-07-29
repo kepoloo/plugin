@@ -78,7 +78,7 @@ async def link_command_handler(client: Client, message: Message):
             os.remove(file_name)
 
 
-__MODULE__ = "Group Link"
+__MODULE__ = "Gʀᴏᴜᴘ Lɪɴᴋ"
 __HELP__ = """
 - `/givelink`: Get the invite link for the current chat.
 - `/link group_id`: Get information and generate an invite link for the specified group ID.
