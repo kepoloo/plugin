@@ -110,22 +110,22 @@ def get_movie_info(movie_name):
 
 __MODULE__ = "Mᴏᴠɪᴇ"
 __HELP__ = """
-## Movie Commands Help
+## Mᴏᴠɪᴇ Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /movie
-**Description:**
-Search for information about a movie.
+### 1. /ᴍᴏᴠɪᴇ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Sᴇᴀʀᴄʜ ғᴏʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴍᴏᴠɪᴇ.
 
-**Usage:**
-/movie [movie_name]
+**Usᴀɢᴇ:**
+/ᴍᴏᴠɪᴇ [ᴍᴏᴠɪᴇ_ɴᴀᴍᴇ]
 
-**Details:**
-- Fetches information about the specified movie from the TMDb API.
-- Provides details such as title, release date, overview, actors, vote average, total collection, and available platforms.
-- Accessible by providing a movie name after the command.
-- Helps users discover details about movies of interest.
+**Dᴇᴛᴀɪs:**
+- Fᴇᴛᴄʜᴇs ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ᴍᴏᴠɪᴇ ғʀᴏᴍ ᴛʜᴇ TMDʙ API.
+- Pʀᴏᴠɪᴅᴇs ᴅᴇᴛᴀɪs sᴜᴄʜ ᴀs ᴛɪᴛᴇ, ʀᴇᴇᴀsᴇ ᴅᴀᴛᴇ, ᴏᴠᴇʀᴠɪᴇᴡ, ᴀᴄᴛᴏʀs, ᴠᴏᴛᴇ ᴀᴠᴇʀᴀɢᴇ, ᴛᴏᴛᴀ ᴄᴏᴇᴄᴛɪᴏɴ, ᴀɴᴅ ᴀᴠᴀɪᴀʙᴇ ᴘᴀᴛғᴏʀᴍs.
+- Aᴄᴄᴇssɪʙᴇ ʙʏ ᴘʀᴏᴠɪᴅɪɴɢ ᴀ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.
+- Hᴇᴘs ᴜsᴇʀs ᴅɪsᴄᴏᴠᴇʀ ᴅᴇᴛᴀɪs ᴀʙᴏᴜᴛ ᴍᴏᴠɪᴇs ᴏғ ɪɴᴛᴇʀᴇsᴛ.
 
-**Examples:**
-- `/movie The Dark Knight`
-- `/movie Inception`
+**Exᴀᴍᴘᴇs:**
+- `/ᴍᴏᴠɪᴇ Tʜᴇ Dᴀʀᴋ Kɴɪɢʜᴛ`
+- `/ᴍᴏᴠɪᴇ Iɴᴄᴇᴘᴛɪᴏɴ`
 """

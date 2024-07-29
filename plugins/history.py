@@ -62,22 +62,22 @@ async def sg(client: Client, message: Message):
 
 __MODULE__ = "Hɪsᴛᴏʀʏ"
 __HELP__ = """
-## History Commands Help
+## Hɪsᴛᴏʀʏ Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /sg or /History
-**Description:**
-Fetches a random message from a user's message history.
+### 1. /sɢ ᴏʀ /Hɪsᴛᴏʀʏ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Fᴇᴛᴄʜᴇs ᴀ ʀᴀɴᴅᴏᴍ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ ʜɪsᴛᴏʀʏ.
 
-**Usage:**
-/sg [username/id/reply]
+**Usᴀɢᴇ:**
+/sɢ [ᴜsᴇʀɴᴀᴍᴇ/ɪᴅ/ʀᴇᴘʏ]
 
-**Details:**
-- Fetches a random message from the message history of the specified user.
-- Can be used by providing a username, user ID, or replying to a message from the user.
-- Accessible only by the bot's assistants.
+**Dᴇᴛᴀɪs:**
+- Fᴇᴛᴄʜᴇs ᴀ ʀᴀɴᴅᴏᴍ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇssᴀɢᴇ ʜɪsᴛᴏʀʏ ᴏғ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ᴜsᴇʀ.
+- Cᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴘʀᴏᴠɪᴅɪɴɢ ᴀ ᴜsᴇʀɴᴀᴍᴇ, ᴜsᴇʀ ID, ᴏʀ ʀᴇᴘʏɪɴɢ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴛʜᴇ ᴜsᴇʀ.
+- Aᴄᴄᴇssɪʙᴇ ᴏɴʏ ʙʏ ᴛʜᴇ ʙᴏᴛ's ᴀssɪsᴛᴀɴᴛs.
 
-**Examples:**
-- `/sg username`
-- `/sg user_id`
-- `/sg [reply to a message]`
+**Exᴀᴍᴘᴇs:**
+- `/sɢ ᴜsᴇʀɴᴀᴍᴇ`
+- `/sɢ ᴜsᴇʀ_ɪᴅ`
+- `/sɢ [ʀᴇᴘʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ]`
 """

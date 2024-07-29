@@ -112,9 +112,9 @@ async def eor(msg: Message, **kwargs):
 
 __MODULE__ = "Assɪsᴛᴀɴᴛ"
 __HELP__ = """
-- `.setdp`: Reply to a photo and use this command to set it as the profile picture of all userbot accounts.
-- `.setbio [text]`: Set the bio of all userbot accounts.
-- `.setname [text]`: Set the first name of all userbot accounts.
-- `.deldp`: Delete the current profile picture of all userbot accounts.
-- `.delalldp`: Delete all profile pictures except the current one of all userbot accounts.
+- `.sᴇᴛᴅᴘ`: Rᴇᴘʏ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ ᴀɴᴅ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴛ ɪᴛ ᴀs ᴛʜᴇ ᴘʀᴏғɪᴇ ᴘɪᴄᴛᴜʀᴇ ᴏғ ᴀ ᴜsᴇʀʙᴏᴛ ᴀᴄᴄᴏᴜɴᴛs.
+- `.sᴇᴛʙɪᴏ [ᴛᴇxᴛ]`: Sᴇᴛ ᴛʜᴇ ʙɪᴏ ᴏғ ᴀ ᴜsᴇʀʙᴏᴛ ᴀᴄᴄᴏᴜɴᴛs.
+- `.sᴇᴛɴᴀᴍᴇ [ᴛᴇxᴛ]`: Sᴇᴛ ᴛʜᴇ ғɪʀsᴛ ɴᴀᴍᴇ ᴏғ ᴀ ᴜsᴇʀʙᴏᴛ ᴀᴄᴄᴏᴜɴᴛs.
+- `.ᴅᴇᴅᴘ`: Dᴇᴇᴛᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴘʀᴏғɪᴇ ᴘɪᴄᴛᴜʀᴇ ᴏғ ᴀ ᴜsᴇʀʙᴏᴛ ᴀᴄᴄᴏᴜɴᴛs.
+- `.ᴅᴇᴀᴅᴘ`: Dᴇᴇᴛᴇ ᴀ ᴘʀᴏғɪᴇ ᴘɪᴄᴛᴜʀᴇs ᴇxᴄᴇᴘᴛ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴏɴᴇ ᴏғ ᴀ ᴜsᴇʀʙᴏᴛ ᴀᴄᴄᴏᴜɴᴛs.
 """

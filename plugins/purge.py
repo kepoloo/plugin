@@ -111,16 +111,16 @@ async def del_msg(app: app, msg: Message):
 
 __MODULE__ = "Pᴜʀɢᴇ"
 __HELP__ = """
-**Purge**
+**Pᴜʀɢᴇ**
 
-This module allows administrators to delete multiple messages in a supergroup at once.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴅᴇᴇᴛᴇ ᴍᴜᴛɪᴘᴇ ᴍᴇssᴀɢᴇs ɪɴ ᴀ sᴜᴘᴇʀɢʀᴏᴜᴘ ᴀᴛ ᴏɴᴄᴇ.
 
-Commands:
-- /purge: Deletes all messages between the replied message and the command message.
-- /spurge: Deletes all messages between the replied message and the command message silently (without a trace).
-- /del: Deletes the replied message.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴘᴜʀɢᴇ: Dᴇᴇᴛᴇs ᴀ ᴍᴇssᴀɢᴇs ʙᴇᴛᴡᴇᴇɴ ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ ᴀɴᴅ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴍᴇssᴀɢᴇ.
+- /sᴘᴜʀɢᴇ: Dᴇᴇᴛᴇs ᴀ ᴍᴇssᴀɢᴇs ʙᴇᴛᴡᴇᴇɴ ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ ᴀɴᴅ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴍᴇssᴀɢᴇ sɪᴇɴᴛʏ (ᴡɪᴛʜᴏᴜᴛ ᴀ ᴛʀᴀᴄᴇ).
+- /ᴅᴇ: Dᴇᴇᴛᴇs ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ.
 
-Note:
-- Only available in supergroups.
-- Only administrators can use these commands.
+Nᴏᴛᴇ:
+- Oɴʏ ᴀᴠᴀɪᴀʙᴇ ɪɴ sᴜᴘᴇʀɢʀᴏᴜᴘs.
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
 """

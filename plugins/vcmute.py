@@ -44,15 +44,15 @@ async def unmute_admin(client: Client, message: Message, _, chat_id):
 
 __MODULE__ = "Vᴄ-Mᴜᴛᴇ"
 __HELP__ = """
-**Voice Chat Moderation**
+**Vᴏɪᴄᴇ Cʜᴀᴛ Mᴏᴅᴇʀᴀᴛɪᴏɴ**
 
-This module allows administrators to mute and unmute the music in voice chats.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴍᴜᴛᴇ ᴀɴᴅ ᴜɴᴍᴜᴛᴇ ᴛʜᴇ ᴍᴜsɪᴄ ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛs.
 
-Commands:
-- /vcmute: Mute the music in the voice chat.
-- /vcunmute: Unmute the music in the voice chat.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴠᴄᴍᴜᴛᴇ: Mᴜᴛᴇ ᴛʜᴇ ᴍᴜsɪᴄ ɪɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
+- /ᴠᴄᴜɴᴍᴜᴛᴇ: Uɴᴍᴜᴛᴇ ᴛʜᴇ ᴍᴜsɪᴄ ɪɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
 
-Note:
-- Only administrators can use these commands.
-- Use /vcmute to mute the music and /vcunmute to unmute the music.
+Nᴏᴛᴇ:
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
+- Usᴇ /ᴠᴄᴍᴜᴛᴇ ᴛᴏ ᴍᴜᴛᴇ ᴛʜᴇ ᴍᴜsɪᴄ ᴀɴᴅ /ᴠᴄᴜɴᴍᴜᴛᴇ ᴛᴏ ᴜɴᴍᴜᴛᴇ ᴛʜᴇ ᴍᴜsɪᴄ.
 """

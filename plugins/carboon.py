@@ -33,18 +33,18 @@ async def _carbon(client, message):
 
 __MODULE__ = "Cᴀʀʙᴏɴ"
 __HELP__ = """
-**Carbon Command**
+**Cᴀʀʙᴏɴ Cᴏᴍᴍᴀɴᴅ**
 
-This command allows users to create a Carbon image from a text message. Carbon is a tool for creating beautiful images of source code.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀᴏᴡs ᴜsᴇʀs ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇ ғʀᴏᴍ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ. Cᴀʀʙᴏɴ ɪs ᴀ ᴛᴏᴏ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ ʙᴇᴀᴜᴛɪғᴜ ɪᴍᴀɢᴇs ᴏғ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.
 
-Features:
-- Reply to a text message to generate a Carbon image from the message content.
-- Supports both plain text and captioned messages.
-- Displays a processing message while generating the Carbon image.
-- Uploads the generated Carbon image as a reply to the original message.
+Fᴇᴀᴛᴜʀᴇs:
+- Rᴇᴘʏ ᴛᴏ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴀ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇssᴀɢᴇ ᴄᴏɴᴛᴇɴᴛ.
+- Sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ ᴘᴀɪɴ ᴛᴇxᴛ ᴀɴᴅ ᴄᴀᴘᴛɪᴏɴᴇᴅ ᴍᴇssᴀɢᴇs.
+- Dɪsᴘᴀʏs ᴀ ᴘʀᴏᴄᴇssɪɴɢ ᴍᴇssᴀɢᴇ ᴡʜɪᴇ ɢᴇɴᴇʀᴀᴛɪɴɢ ᴛʜᴇ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇ.
+- Uᴘᴏᴀᴅs ᴛʜᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇ ᴀs ᴀ ʀᴇᴘʏ ᴛᴏ ᴛʜᴇ ᴏʀɪɢɪɴᴀ ᴍᴇssᴀɢᴇ.
 
-Commands:
-- /carbon: Reply to a text message to generate a Carbon image from the message content.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴄᴀʀʙᴏɴ: Rᴇᴘʏ ᴛᴏ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴀ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇssᴀɢᴇ ᴄᴏɴᴛᴇɴᴛ.
 
-Note: Make sure to reply to a text message to generate the Carbon image successfully.
+Nᴏᴛᴇ: Mᴀᴋᴇ sᴜʀᴇ ᴛᴏ ʀᴇᴘʏ ᴛᴏ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴇ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇ sᴜᴄᴄᴇssғᴜʏ.
 """

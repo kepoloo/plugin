@@ -53,21 +53,21 @@ async def get_thumbnail_command(client, message):
 
 __MODULE__ = "Tʜᴜᴍʙ"
 __HELP__ = """
-## Thumbnail Commands Help
+## Tʜᴜᴍʙɴᴀɪ Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /getthumb or /genthumb or /thumb or /thumbnail
-**Description:**
-Fetches the thumbnail of a YouTube video.
+### 1. /ɢᴇᴛᴛʜᴜᴍʙ ᴏʀ /ɢᴇɴᴛʜᴜᴍʙ ᴏʀ /ᴛʜᴜᴍʙ ᴏʀ /ᴛʜᴜᴍʙɴᴀɪ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Fᴇᴛᴄʜᴇs ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪ ᴏғ ᴀ YᴏᴜTᴜʙᴇ ᴠɪᴅᴇᴏ.
 
-**Usage:**
-/getthumb [YouTube_video_URL]
+**Usᴀɢᴇ:**
+/ɢᴇᴛᴛʜᴜᴍʙ [YᴏᴜTᴜʙᴇ_ᴠɪᴅᴇᴏ_URL]
 
-**Details:**
-- Retrieves the thumbnail of the specified YouTube video.
-- Provides the video title as a caption with a link to the bot's info.
-- Supports both short and full YouTube video URLs.
+**Dᴇᴛᴀɪs:**
+- Rᴇᴛʀɪᴇᴠᴇs ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪ ᴏғ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ YᴏᴜTᴜʙᴇ ᴠɪᴅᴇᴏ.
+- Pʀᴏᴠɪᴅᴇs ᴛʜᴇ ᴠɪᴅᴇᴏ ᴛɪᴛᴇ ᴀs ᴀ ᴄᴀᴘᴛɪᴏɴ ᴡɪᴛʜ ᴀ ɪɴᴋ ᴛᴏ ᴛʜᴇ ʙᴏᴛ's ɪɴғᴏ.
+- Sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ sʜᴏʀᴛ ᴀɴᴅ ғᴜ YᴏᴜTᴜʙᴇ ᴠɪᴅᴇᴏ URLs.
 
-**Examples:**
-- `/getthumb https://www.youtube.com/watch?v=video_id`
-- `/getthumb https://youtu.be/video_id`
+**Exᴀᴍᴘᴇs:**
+- `/ɢᴇᴛᴛʜᴜᴍʙ ʜᴛᴛᴘs://ᴡᴡᴡ.ʏᴏᴜᴛᴜʙᴇ.ᴄᴏᴍ/ᴡᴀᴛᴄʜ?ᴠ=ᴠɪᴅᴇᴏ_ɪᴅ`
+- `/ɢᴇᴛᴛʜᴜᴍʙ ʜᴛᴛᴘs://ʏᴏᴜᴛᴜ.ʙᴇ/ᴠɪᴅᴇᴏ_ɪᴅ`
 """

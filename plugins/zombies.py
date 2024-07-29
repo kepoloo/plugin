@@ -181,17 +181,17 @@ async def bots(client, message):
 
 __MODULE__ = "Zᴏᴍʙɪᴇs"
 __HELP__ = """
-## Admin Tools Module
+## Aᴅᴍɪɴ Tᴏᴏs Mᴏᴅᴜᴇ
 
-This module provides tools for group administrators to manage the group effectively.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴘʀᴏᴠɪᴅᴇs ᴛᴏᴏs ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴍᴀɴᴀɢᴇ ᴛʜᴇ ɢʀᴏᴜᴘ ᴇғғᴇᴄᴛɪᴠᴇʏ.
 
-### Commands:
-- `/zombies`: Remove deleted accounts from the group.
-- `/admins` or `/staff`: Get a list of group administrators and owners.
-- `/bots`: Get a list of bots in the group.
+### Cᴏᴍᴍᴀɴᴅs:
+- `/ᴢᴏᴍʙɪᴇs`: Rᴇᴍᴏᴠᴇ ᴅᴇᴇᴛᴇᴅ ᴀᴄᴄᴏᴜɴᴛs ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- `/ᴀᴅᴍɪɴs` ᴏʀ `/sᴛᴀғғ`: Gᴇᴛ ᴀ ɪsᴛ ᴏғ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴀɴᴅ ᴏᴡɴᴇʀs.
+- `/ʙᴏᴛs`: Gᴇᴛ ᴀ ɪsᴛ ᴏғ ʙᴏᴛs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
-### Features:
-- `zombies`: Removes deleted accounts from the group.
-- `admins` or `staff`: Displays a list of group administrators and owners.
-- `bots`: Displays a list of bots in the group.
+### Fᴇᴀᴛᴜʀᴇs:
+- `ᴢᴏᴍʙɪᴇs`: Rᴇᴍᴏᴠᴇs ᴅᴇᴇᴛᴇᴅ ᴀᴄᴄᴏᴜɴᴛs ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- `ᴀᴅᴍɪɴs` ᴏʀ `sᴛᴀғғ`: Dɪsᴘᴀʏs ᴀ ɪsᴛ ᴏғ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴀɴᴅ ᴏᴡɴᴇʀs.
+- `ʙᴏᴛs`: Dɪsᴘᴀʏs ᴀ ɪsᴛ ᴏғ ʙᴏᴛs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 """

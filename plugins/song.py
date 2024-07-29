@@ -211,17 +211,17 @@ async def instagram_reel(client, message):
 
 __MODULE__ = "Sᴏɴɢ"
 __HELP__ = """
-## Song Commands
+## Sᴏɴɢ Cᴏᴍᴍᴀɴᴅs
 
-This module contains commands related to downloading songs and Instagram reels.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴄᴏɴᴛᴀɪɴs ᴄᴏᴍᴍᴀɴᴅs ʀᴇᴀᴛᴇᴅ ᴛᴏ ᴅᴏᴡɴᴏᴀᴅɪɴɢ sᴏɴɢs ᴀɴᴅ Iɴsᴛᴀɢʀᴀᴍ ʀᴇᴇs.
 
-**Available Commands:**
+**Aᴠᴀɪᴀʙᴇ Cᴏᴍᴍᴀɴᴅs:**
 
-- `/song`: Downloads a song based on the provided query.
-- `/ig`: Downloads an Instagram reel based on the provided link.
-- `/reel`: Downloads an Instagram reel based on the provided link.
+- `/sᴏɴɢ`: Dᴏᴡɴᴏᴀᴅs ᴀ sᴏɴɢ ʙᴀsᴇᴅ ᴏɴ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ǫᴜᴇʀʏ.
+- `/ɪɢ`: Dᴏᴡɴᴏᴀᴅs ᴀɴ Iɴsᴛᴀɢʀᴀᴍ ʀᴇᴇ ʙᴀsᴇᴅ ᴏɴ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ɪɴᴋ.
+- `/ʀᴇᴇ`: Dᴏᴡɴᴏᴀᴅs ᴀɴ Iɴsᴛᴀɢʀᴀᴍ ʀᴇᴇ ʙᴀsᴇᴅ ᴏɴ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ɪɴᴋ.
 
-**Note:**
-- To download an Instagram reel, provide a valid Instagram reel URL using the `/ig` or `/reel` command.
-- The bot will handle spamming by limiting the number of commands per user within a specific time window.
+**Nᴏᴛᴇ:**
+- Tᴏ ᴅᴏᴡɴᴏᴀᴅ ᴀɴ Iɴsᴛᴀɢʀᴀᴍ ʀᴇᴇ, ᴘʀᴏᴠɪᴅᴇ ᴀ ᴠᴀɪᴅ Iɴsᴛᴀɢʀᴀᴍ ʀᴇᴇ URL ᴜsɪɴɢ ᴛʜᴇ `/ɪɢ` ᴏʀ `/ʀᴇᴇ` ᴄᴏᴍᴍᴀɴᴅ.
+- Tʜᴇ ʙᴏᴛ ᴡɪ ʜᴀɴᴅᴇ sᴘᴀᴍᴍɪɴɢ ʙʏ ɪᴍɪᴛɪɴɢ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ᴄᴏᴍᴍᴀɴᴅs ᴘᴇʀ ᴜsᴇʀ ᴡɪᴛʜɪɴ ᴀ sᴘᴇᴄɪғɪᴄ ᴛɪᴍᴇ ᴡɪɴᴅᴏᴡ.
 """

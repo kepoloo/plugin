@@ -1,9 +1,9 @@
 __MODULE__ = "Tʀᴀɴsʟᴀᴛᴏʀ"
 __HELP__ = """
-This module provides commands to translate messages.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴘʀᴏᴠɪᴅᴇs ᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴛʀᴀɴsᴀᴛᴇ ᴍᴇssᴀɢᴇs.
 
-- `/tr [language_code]`: Translate a message. Reply to the message you want to translate. Optionally, specify the target language code. If not specified, the target language will be English (en).
-- `/langcodes`: Get a list of language codes and their corresponding languages.
+- `/ᴛʀ [ᴀɴɢᴜᴀɢᴇ_ᴄᴏᴅᴇ]`: Tʀᴀɴsᴀᴛᴇ ᴀ ᴍᴇssᴀɢᴇ. Rᴇᴘʏ ᴛᴏ ᴛʜᴇ ᴍᴇssᴀɢᴇ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴛʀᴀɴsᴀᴛᴇ. Oᴘᴛɪᴏɴᴀʏ, sᴘᴇᴄɪғʏ ᴛʜᴇ ᴛᴀʀɢᴇᴛ ᴀɴɢᴜᴀɢᴇ ᴄᴏᴅᴇ. Iғ ɴᴏᴛ sᴘᴇᴄɪғɪᴇᴅ, ᴛʜᴇ ᴛᴀʀɢᴇᴛ ᴀɴɢᴜᴀɢᴇ ᴡɪ ʙᴇ Eɴɢɪsʜ (ᴇɴ).
+- `/ᴀɴɢᴄᴏᴅᴇs`: Gᴇᴛ ᴀ ɪsᴛ ᴏғ ᴀɴɢᴜᴀɢᴇ ᴄᴏᴅᴇs ᴀɴᴅ ᴛʜᴇɪʀ ᴄᴏʀʀᴇsᴘᴏɴᴅɪɴɢ ᴀɴɢᴜᴀɢᴇs.
 """
 
 from gpytranslate import Translator

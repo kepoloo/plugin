@@ -99,22 +99,22 @@ async def help(client: Client, message: Message):
 
 __MODULE__ = "Sʜᴀʏᴀʀɪ"
 __HELP__ = """
-/gf, /bf, /shayri, /sari, /shari, /love: Get a random Shayari.
+/ɢғ, /ʙғ, /sʜᴀʏʀɪ, /sᴀʀɪ, /sʜᴀʀɪ, /ᴏᴠᴇ: Gᴇᴛ ᴀ ʀᴀɴᴅᴏᴍ Sʜᴀʏᴀʀɪ.
 
-This command works in both private and group chats. It provides a random piece of Shayari from a predefined list. The reply includes buttons for support and official channels.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴡᴏʀᴋs ɪɴ ʙᴏᴛʜ ᴘʀɪᴠᴀᴛᴇ ᴀɴᴅ ɢʀᴏᴜᴘ ᴄʜᴀᴛs. Iᴛ ᴘʀᴏᴠɪᴅᴇs ᴀ ʀᴀɴᴅᴏᴍ ᴘɪᴇᴄᴇ ᴏғ Sʜᴀʏᴀʀɪ ғʀᴏᴍ ᴀ ᴘʀᴇᴅᴇғɪɴᴇᴅ ɪsᴛ. Tʜᴇ ʀᴇᴘʏ ɪɴᴄᴜᴅᴇs ʙᴜᴛᴛᴏɴs ғᴏʀ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴏғғɪᴄɪᴀ ᴄʜᴀɴɴᴇs.
 
-Features:
-- Provides a random Shayari on command.
-- Available in both private and group chats.
-- Includes inline keyboard buttons for additional support and official links.
+Fᴇᴀᴛᴜʀᴇs:
+- Pʀᴏᴠɪᴅᴇs ᴀ ʀᴀɴᴅᴏᴍ Sʜᴀʏᴀʀɪ ᴏɴ ᴄᴏᴍᴍᴀɴᴅ.
+- Aᴠᴀɪᴀʙᴇ ɪɴ ʙᴏᴛʜ ᴘʀɪᴠᴀᴛᴇ ᴀɴᴅ ɢʀᴏᴜᴘ ᴄʜᴀᴛs.
+- Iɴᴄᴜᴅᴇs ɪɴɪɴᴇ ᴋᴇʏʙᴏᴀʀᴅ ʙᴜᴛᴛᴏɴs ғᴏʀ ᴀᴅᴅɪᴛɪᴏɴᴀ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴏғғɪᴄɪᴀ ɪɴᴋs.
 
-Commands:
-- /gf
-- /bf
-- /shayri
-- /sari
-- /shari
-- /love
+Cᴏᴍᴍᴀɴᴅs:
+- /ɢғ
+- /ʙғ
+- /sʜᴀʏʀɪ
+- /sᴀʀɪ
+- /sʜᴀʀɪ
+- /ᴏᴠᴇ
 
-Note: This bot provides links to support and official channels for further assistance.
+Nᴏᴛᴇ: Tʜɪs ʙᴏᴛ ᴘʀᴏᴠɪᴅᴇs ɪɴᴋs ᴛᴏ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴏғғɪᴄɪᴀ ᴄʜᴀɴɴᴇs ғᴏʀ ғᴜʀᴛʜᴇʀ ᴀssɪsᴛᴀɴᴄᴇ.
 """

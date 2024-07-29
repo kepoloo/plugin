@@ -111,28 +111,28 @@ async def cancelcmd(_, message):
 
 __MODULE__ = "Usᴇʀʙᴏᴛ Tᴀɢ"
 __HELP__ = """
-**Tag All Users (By Assistant)**
+**Tᴀɢ A Usᴇʀs (Bʏ Assɪsᴛᴀɴᴛ)**
 
-This command allows sudo users to tag all users in the group or channel.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀᴏᴡs sᴜᴅᴏ ᴜsᴇʀs ᴛᴏ ᴛᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇ.
 
-Commands:
-- /atag <text>: Tag all users in the group or channel with the provided text.
-- /aall <text>: Tag all users in the group or channel with the provided text.
-- /amention <text>: Tag all users in the group or channel with the provided text.
-- /amentionall <text>: Tag all users in the group or channel with the provided text.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴀᴛᴀɢ <ᴛᴇxᴛ>: Tᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇ ᴡɪᴛʜ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ᴛᴇxᴛ.
+- /ᴀᴀ <ᴛᴇxᴛ>: Tᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇ ᴡɪᴛʜ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ᴛᴇxᴛ.
+- /ᴀᴍᴇɴᴛɪᴏɴ <ᴛᴇxᴛ>: Tᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇ ᴡɪᴛʜ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ᴛᴇxᴛ.
+- /ᴀᴍᴇɴᴛɪᴏɴᴀ <ᴛᴇxᴛ>: Tᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇ ᴡɪᴛʜ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ᴛᴇxᴛ.
 
-To stop tagging:
-- /astopmention: Stop the tagging process.
-- /aoffall: Stop the tagging process.
-- /acancel: Stop the tagging process.
-- /aallstop: Stop the tagging process.
-- /astopall: Stop the tagging process.
-- /acancelmention: Stop the tagging process.
-- /aoffmention: Stop the tagging process.
-- /amentionoff: Stop the tagging process.
-- /aalloff: Stop the tagging process.
-- /acancelall: Stop the tagging process.
-- /aallcancel: Stop the tagging process.
+Tᴏ sᴛᴏᴘ ᴛᴀɢɢɪɴɢ:
+- /ᴀsᴛᴏᴘᴍᴇɴᴛɪᴏɴ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴏғғᴀ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴄᴀɴᴄᴇ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴀsᴛᴏᴘ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀsᴛᴏᴘᴀ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴄᴀɴᴄᴇᴍᴇɴᴛɪᴏɴ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴏғғᴍᴇɴᴛɪᴏɴ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴍᴇɴᴛɪᴏɴᴏғғ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴀᴏғғ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴄᴀɴᴄᴇᴀ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
+- /ᴀᴀᴄᴀɴᴄᴇ: Sᴛᴏᴘ ᴛʜᴇ ᴛᴀɢɢɪɴɢ ᴘʀᴏᴄᴇss.
 
-Note: Only sudo users can use these commands.
+Nᴏᴛᴇ: Oɴʏ sᴜᴅᴏ ᴜsᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
 """

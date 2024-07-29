@@ -183,31 +183,31 @@ async def ytmusic(client, message: Message):
 
 __MODULE__ = "Vɪᴅᴇᴏ"
 __HELP__ = """
-## Shorts Command Help
+## Sʜᴏʀᴛs Cᴏᴍᴍᴀɴᴅ Hᴇᴘ
 
-### 1. /shorts
-**Description:**
-Downloads a YouTube video and sends it as a reply.
+### 1. /sʜᴏʀᴛs
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Dᴏᴡɴᴏᴀᴅs ᴀ YᴏᴜTᴜʙᴇ ᴠɪᴅᴇᴏ ᴀɴᴅ sᴇɴᴅs ɪᴛ ᴀs ᴀ ʀᴇᴘʏ.
 
-**Usage:**
-/shorts [YouTube_video_URL]
+**Usᴀɢᴇ:**
+/sʜᴏʀᴛs [YᴏᴜTᴜʙᴇ_ᴠɪᴅᴇᴏ_URL]
 
-**Details:**
-- Downloads the specified YouTube video and sends it as a reply.
-- Supports short YouTube video URLs.
-- Automatically detects spam and limits excessive usage.
+**Dᴇᴛᴀɪs:**
+- Dᴏᴡɴᴏᴀᴅs ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ YᴏᴜTᴜʙᴇ ᴠɪᴅᴇᴏ ᴀɴᴅ sᴇɴᴅs ɪᴛ ᴀs ᴀ ʀᴇᴘʏ.
+- Sᴜᴘᴘᴏʀᴛs sʜᴏʀᴛ YᴏᴜTᴜʙᴇ ᴠɪᴅᴇᴏ URLs.
+- Aᴜᴛᴏᴍᴀᴛɪᴄᴀʏ ᴅᴇᴛᴇᴄᴛs sᴘᴀᴍ ᴀɴᴅ ɪᴍɪᴛs ᴇxᴄᴇssɪᴠᴇ ᴜsᴀɢᴇ.
 
-## YouTube Music Command Help
+## YᴏᴜTᴜʙᴇ Mᴜsɪᴄ Cᴏᴍᴍᴀɴᴅ Hᴇᴘ
 
-### 1. /yt or /video
-**Description:**
-Searches YouTube for a video and sends it as a reply.
+### 1. /ʏᴛ ᴏʀ /ᴠɪᴅᴇᴏ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Sᴇᴀʀᴄʜᴇs YᴏᴜTᴜʙᴇ ғᴏʀ ᴀ ᴠɪᴅᴇᴏ ᴀɴᴅ sᴇɴᴅs ɪᴛ ᴀs ᴀ ʀᴇᴘʏ.
 
-**Usage:**
-/yt [search_query]
+**Usᴀɢᴇ:**
+/ʏᴛ [sᴇᴀʀᴄʜ_ǫᴜᴇʀʏ]
 
-**Details:**
-- Searches YouTube for the specified query and sends the video as a reply.
-- Automatically detects spam and limits excessive usage.
-- Provides information about the video title, channel, and search query.
+**Dᴇᴛᴀɪs:**
+- Sᴇᴀʀᴄʜᴇs YᴏᴜTᴜʙᴇ ғᴏʀ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ǫᴜᴇʀʏ ᴀɴᴅ sᴇɴᴅs ᴛʜᴇ ᴠɪᴅᴇᴏ ᴀs ᴀ ʀᴇᴘʏ.
+- Aᴜᴛᴏᴍᴀᴛɪᴄᴀʏ ᴅᴇᴛᴇᴄᴛs sᴘᴀᴍ ᴀɴᴅ ɪᴍɪᴛs ᴇxᴄᴇssɪᴠᴇ ᴜsᴀɢᴇ.
+- Pʀᴏᴠɪᴅᴇs ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴠɪᴅᴇᴏ ᴛɪᴛᴇ, ᴄʜᴀɴɴᴇ, ᴀɴᴅ sᴇᴀʀᴄʜ ǫᴜᴇʀʏ.
 """

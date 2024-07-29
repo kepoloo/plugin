@@ -48,22 +48,22 @@ def download_and_zip_repo(repo_url):
 
 __MODULE__ = "Rᴇᴘᴏ"
 __HELP__ = """
-## Commands Help
+## Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /downloadrepo
-**Description:**
-Download and retrieve files from a GitHub repository.
+### 1. /ᴅᴏᴡɴᴏᴀᴅʀᴇᴘᴏ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Dᴏᴡɴᴏᴀᴅ ᴀɴᴅ ʀᴇᴛʀɪᴇᴠᴇ ғɪᴇs ғʀᴏᴍ ᴀ GɪᴛHᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ.
 
-**Usage:**
-/downloadrepo [Repo_URL]
+**Usᴀɢᴇ:**
+/ᴅᴏᴡɴᴏᴀᴅʀᴇᴘᴏ [Rᴇᴘᴏ_URL]
 
-**Details:**
-- Clones the specified GitHub repository.
-- Creates a zip file of the repository.
-- Sends the zip file back as a document.
-- If the download fails, an error message will be displayed.
+**Dᴇᴛᴀɪs:**
+- Cᴏɴᴇs ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ GɪᴛHᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ.
+- Cʀᴇᴀᴛᴇs ᴀ ᴢɪᴘ ғɪᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ.
+- Sᴇɴᴅs ᴛʜᴇ ᴢɪᴘ ғɪᴇ ʙᴀᴄᴋ ᴀs ᴀ ᴅᴏᴄᴜᴍᴇɴᴛ.
+- Iғ ᴛʜᴇ ᴅᴏᴡɴᴏᴀᴅ ғᴀɪs, ᴀɴ ᴇʀʀᴏʀ ᴍᴇssᴀɢᴇ ᴡɪ ʙᴇ ᴅɪsᴘᴀʏᴇᴅ.
 
-**Examples:**
-- `/downloadrepo https://github.com/username/repository`
+**Exᴀᴍᴘᴇs:**
+- `/ᴅᴏᴡɴᴏᴀᴅʀᴇᴘᴏ ʜᴛᴛᴘs://ɢɪᴛʜᴜʙ.ᴄᴏᴍ/ᴜsᴇʀɴᴀᴍᴇ/ʀᴇᴘᴏsɪᴛᴏʀʏ`
 
 """

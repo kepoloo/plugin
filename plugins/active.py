@@ -124,27 +124,27 @@ async def start(client: Client, message: Message):
 
 __MODULE__ = "Aᴄᴛɪᴠᴇ"
 __HELP__ = """
-## Active Voice/Video Chats Commands
+## Aᴄᴛɪᴠᴇ Vᴏɪᴄᴇ/Vɪᴅᴇᴏ Cʜᴀᴛs Cᴏᴍᴍᴀɴᴅs
 
-### Command: /activevc or /activevoice
-**Description:**
-Lists active voice chats in all served groups.
-**Usage:**
-/activevc
+### Cᴏᴍᴍᴀɴᴅ: /ᴀᴄᴛɪᴠᴇᴠᴄ ᴏʀ /ᴀᴄᴛɪᴠᴇᴠᴏɪᴄᴇ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Lɪsᴛs ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛs ɪɴ ᴀ sᴇʀᴠᴇᴅ ɢʀᴏᴜᴘs.
+**Usᴀɢᴇ:**
+/ᴀᴄᴛɪᴠᴇᴠᴄ
 
-### Command: /activev or /activevideo
-**Description:**
-Lists active video chats in all served groups.
-**Usage:**
-/activev
+### Cᴏᴍᴍᴀɴᴅ: /ᴀᴄᴛɪᴠᴇᴠ ᴏʀ /ᴀᴄᴛɪᴠᴇᴠɪᴅᴇᴏ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Lɪsᴛs ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏ ᴄʜᴀᴛs ɪɴ ᴀ sᴇʀᴠᴇᴅ ɢʀᴏᴜᴘs.
+**Usᴀɢᴇ:**
+/ᴀᴄᴛɪᴠᴇᴠ
 
-### Command: /ac
-**Description:**
-Displays the count of active voice and video chats.
-**Usage:**
-/ac
+### Cᴏᴍᴍᴀɴᴅ: /ᴀᴄ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Dɪsᴘᴀʏs ᴛʜᴇ ᴄᴏᴜɴᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴄʜᴀᴛs.
+**Usᴀɢᴇ:**
+/ᴀᴄ
 
-**Notes:**
-- Only SUDOERS can use these commands.
-- Automatically generates join links for active chats.
+**Nᴏᴛᴇs:**
+- Oɴʏ SUDOERS ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
+- Aᴜᴛᴏᴍᴀᴛɪᴄᴀʏ ɢᴇɴᴇʀᴀᴛᴇs ᴊᴏɪɴ ɪɴᴋs ғᴏʀ ᴀᴄᴛɪᴠᴇ ᴄʜᴀᴛs.
 """

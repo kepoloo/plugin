@@ -71,15 +71,15 @@ async def stop_tagging(_, message):
 
 __MODULE__ = "Uɴʟɪᴍɪᴛᴇᴅ Tᴀɢ"
 __HELP__ = """
-**Unlimited Tagging**
+**Uɴɪᴍɪᴛᴇᴅ Tᴀɢɢɪɴɢ**
 
-This module allows administrators to tag all users in a group without limitations.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴛᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜᴏᴜᴛ ɪᴍɪᴛᴀᴛɪᴏɴs.
 
-Commands:
-- /utag: Start tagging all users in the group unlimited times.
-- /stoputag: Stop tagging all users in the group.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴜᴛᴀɢ: Sᴛᴀʀᴛ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴜɴɪᴍɪᴛᴇᴅ ᴛɪᴍᴇs.
+- /sᴛᴏᴘᴜᴛᴀɢ: Sᴛᴏᴘ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
-Note:
-- Only administrators can use these commands.
-- Use /utag to start unlimited tagging all users, and /stoputag to stop tagging.
+Nᴏᴛᴇ:
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
+- Usᴇ /ᴜᴛᴀɢ ᴛᴏ sᴛᴀʀᴛ ᴜɴɪᴍɪᴛᴇᴅ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs, ᴀɴᴅ /sᴛᴏᴘᴜᴛᴀɢ ᴛᴏ sᴛᴏᴘ ᴛᴀɢɢɪɴɢ.
 """

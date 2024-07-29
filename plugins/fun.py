@@ -12,22 +12,22 @@ async def dice(c, m: Message):
 
 __MODULE__ = "Fᴜɴ"
 __HELP__ = """
-## Fun Commands Help
+## Fᴜɴ Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /dice or /ludo
-**Description:**
-Rolls a virtual dice or plays a game of Ludo.
+### 1. /ᴅɪᴄᴇ ᴏʀ /ᴜᴅᴏ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Rᴏs ᴀ ᴠɪʀᴛᴜᴀ ᴅɪᴄᴇ ᴏʀ ᴘᴀʏs ᴀ ɢᴀᴍᴇ ᴏғ Lᴜᴅᴏ.
 
-**Usage:**
-/dice or /ludo
+**Usᴀɢᴇ:**
+/ᴅɪᴄᴇ ᴏʀ /ᴜᴅᴏ
 
-**Details:**
-- Initiates a dice roll or a game of Ludo.
-- Sends the result of the dice roll.
-- For Ludo, the game is played directly in the chat.
+**Dᴇᴛᴀɪs:**
+- Iɴɪᴛɪᴀᴛᴇs ᴀ ᴅɪᴄᴇ ʀᴏ ᴏʀ ᴀ ɢᴀᴍᴇ ᴏғ Lᴜᴅᴏ.
+- Sᴇɴᴅs ᴛʜᴇ ʀᴇsᴜᴛ ᴏғ ᴛʜᴇ ᴅɪᴄᴇ ʀᴏ.
+- Fᴏʀ Lᴜᴅᴏ, ᴛʜᴇ ɢᴀᴍᴇ ɪs ᴘᴀʏᴇᴅ ᴅɪʀᴇᴄᴛʏ ɪɴ ᴛʜᴇ ᴄʜᴀᴛ.
 
-**Examples:**
-- `/dice`
-- `/ludo`
+**Exᴀᴍᴘᴇs:**
+- `/ᴅɪᴄᴇ`
+- `/ᴜᴅᴏ`
 
 """

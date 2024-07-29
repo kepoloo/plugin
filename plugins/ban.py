@@ -459,17 +459,17 @@ async def tmute_command_handler(client, message):
 
 __MODULE__ = "Bᴀɴ-Uɴʙᴀɴ"
 __HELP__ = """
-**Moderation**
+**Mᴏᴅᴇʀᴀᴛɪᴏɴ**
 
-This module handles various moderation commands such as banning, unbanning, muting, and unmuting users.
+Tʜɪs ᴍᴏᴅᴜᴇ ʜᴀɴᴅᴇs ᴠᴀʀɪᴏᴜs ᴍᴏᴅᴇʀᴀᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅs sᴜᴄʜ ᴀs ʙᴀɴɴɪɴɢ, ᴜɴʙᴀɴɴɪɴɢ, ᴍᴜᴛɪɴɢ, ᴀɴᴅ ᴜɴᴍᴜᴛɪɴɢ ᴜsᴇʀs.
 
-Commands:
-- /ban: Ban a user from the group.
-- /unban: Unban a user from the group.
-- /mute: Mute a user in the group.
-- /unmute: Unmute a user in the group.
-- /tmute <time>: Temporarily mute a user in the group. Time format: `2m` (2 minutes), `2h` (2 hours), `2d` (2 days).
+Cᴏᴍᴍᴀɴᴅs:
+- /ʙᴀɴ: Bᴀɴ ᴀ ᴜsᴇʀ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴜɴʙᴀɴ: Uɴʙᴀɴ ᴀ ᴜsᴇʀ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴍᴜᴛᴇ: Mᴜᴛᴇ ᴀ ᴜsᴇʀ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴜɴᴍᴜᴛᴇ: Uɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴛᴍᴜᴛᴇ <ᴛɪᴍᴇ>: Tᴇᴍᴘᴏʀᴀʀɪʏ ᴍᴜᴛᴇ ᴀ ᴜsᴇʀ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ. Tɪᴍᴇ ғᴏʀᴍᴀᴛ: `2ᴍ` (2 ᴍɪɴᴜᴛᴇs), `2ʜ` (2 ʜᴏᴜʀs), `2ᴅ` (2 ᴅᴀʏs).
 
-Note:
-- Only administrators with the required permissions can use these commands.
+Nᴏᴛᴇ:
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴡɪᴛʜ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴘᴇʀᴍɪssɪᴏɴs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
 """

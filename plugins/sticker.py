@@ -137,9 +137,9 @@ async def sticker_id(app: app, msg):
 
 __MODULE__ = "Sᴛɪᴄᴋᴇʀ"
 __HELP__ = """
-This module provides commands for image processing.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴘʀᴏᴠɪᴅᴇs ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ɪᴍᴀɢᴇ ᴘʀᴏᴄᴇssɪɴɢ.
 
-- `/upscale` or `/hd`: Upscale an image.
-- `/packkang` or `/kang`: Kang stickers from other sticker packs.
-- `/stickerid` or `/stid`: Get information about a sticker.
+- `/ᴜᴘsᴄᴀᴇ` ᴏʀ `/ʜᴅ`: Uᴘsᴄᴀᴇ ᴀɴ ɪᴍᴀɢᴇ.
+- `/ᴘᴀᴄᴋᴋᴀɴɢ` ᴏʀ `/ᴋᴀɴɢ`: Kᴀɴɢ sᴛɪᴄᴋᴇʀs ғʀᴏᴍ ᴏᴛʜᴇʀ sᴛɪᴄᴋᴇʀ ᴘᴀᴄᴋs.
+- `/sᴛɪᴄᴋᴇʀɪᴅ` ᴏʀ `/sᴛɪᴅ`: Gᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ sᴛɪᴄᴋᴇʀ.
 """

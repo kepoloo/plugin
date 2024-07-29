@@ -31,14 +31,14 @@ async def handle_post_command(_, message):
 
 __MODULE__ = "Pᴏsᴛ"
 __HELP__ = """
-**Post Messages**
+**Pᴏsᴛ Mᴇssᴀɢᴇs**
 
-This module allows the owner to copy messages from one chat to another.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ᴄᴏᴘʏ ᴍᴇssᴀɢᴇs ғʀᴏᴍ ᴏɴᴇ ᴄʜᴀᴛ ᴛᴏ ᴀɴᴏᴛʜᴇʀ.
 
-Commands:
-- /post: Replies to a message to copy it to a predefined destination group.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴘᴏsᴛ: Rᴇᴘɪᴇs ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴄᴏᴘʏ ɪᴛ ᴛᴏ ᴀ ᴘʀᴇᴅᴇғɪɴᴇᴅ ᴅᴇsᴛɪɴᴀᴛɪᴏɴ ɢʀᴏᴜᴘ.
 
-Note:
-- Only the owner of the bot can use this command.
-- Replace the `destination_group_id` variable with the desired destination group ID.
+Nᴏᴛᴇ:
+- Oɴʏ ᴛʜᴇ ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇ ʙᴏᴛ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
+- Rᴇᴘᴀᴄᴇ ᴛʜᴇ `ᴅᴇsᴛɪɴᴀᴛɪᴏɴ_ɢʀᴏᴜᴘ_ɪᴅ` ᴠᴀʀɪᴀʙᴇ ᴡɪᴛʜ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴅᴇsᴛɪɴᴀᴛɪᴏɴ ɢʀᴏᴜᴘ ID.
 """

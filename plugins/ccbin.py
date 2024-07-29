@@ -74,27 +74,27 @@ async def check_ccbin(client, message):
 
 __MODULE__ = "CC-BIN"
 __HELP__ = """
-## CC-BIN Command
+## CC-BIN Cᴏᴍᴍᴀɴᴅ
 
-### Command: /bin, /ccbin, /bininfo
-**Description:**
-Fetches details about a given BIN (Bank Identification Number).
+### Cᴏᴍᴍᴀɴᴅ: /ʙɪɴ, /ᴄᴄʙɪɴ, /ʙɪɴɪɴғᴏ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Fᴇᴛᴄʜᴇs ᴅᴇᴛᴀɪs ᴀʙᴏᴜᴛ ᴀ ɢɪᴠᴇɴ BIN (Bᴀɴᴋ Iᴅᴇɴᴛɪғɪᴄᴀᴛɪᴏɴ Nᴜᴍʙᴇʀ).
 
-**Usage:**
-/bin BIN_NUMBER
-/ccbin BIN_NUMBER
-/bininfo BIN_NUMBER
+**Usᴀɢᴇ:**
+/ʙɪɴ BIN_NUMBER
+/ᴄᴄʙɪɴ BIN_NUMBER
+/ʙɪɴɪɴғᴏ BIN_NUMBER
 
-**Details:**
-- Provides information about the bank, country, type, and vendor for the specified BIN.
-- Anti-spam measures are in place to prevent command spamming. Users can only use the command twice within 5 seconds.
+**Dᴇᴛᴀɪs:**
+- Pʀᴏᴠɪᴅᴇs ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴀɴᴋ, ᴄᴏᴜɴᴛʀʏ, ᴛʏᴘᴇ, ᴀɴᴅ ᴠᴇɴᴅᴏʀ ғᴏʀ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ BIN.
+- Aɴᴛɪ-sᴘᴀᴍ ᴍᴇᴀsᴜʀᴇs ᴀʀᴇ ɪɴ ᴘᴀᴄᴇ ᴛᴏ ᴘʀᴇᴠᴇɴᴛ ᴄᴏᴍᴍᴀɴᴅ sᴘᴀᴍᴍɪɴɢ. Usᴇʀs ᴄᴀɴ ᴏɴʏ ᴜsᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴛᴡɪᴄᴇ ᴡɪᴛʜɪɴ 5 sᴇᴄᴏɴᴅs.
 
-**Examples:**
-- /bin 123456: Retrieves BIN details for 123456.
+**Exᴀᴍᴘᴇs:**
+- /ʙɪɴ 123456: Rᴇᴛʀɪᴇᴠᴇs BIN ᴅᴇᴛᴀɪs ғᴏʀ 123456.
 
-**Notes:**
-- If the BIN is not recognized or is invalid, an error message is displayed.
+**Nᴏᴛᴇs:**
+- Iғ ᴛʜᴇ BIN ɪs ɴᴏᴛ ʀᴇᴄᴏɢɴɪᴢᴇᴅ ᴏʀ ɪs ɪɴᴠᴀɪᴅ, ᴀɴ ᴇʀʀᴏʀ ᴍᴇssᴀɢᴇ ɪs ᴅɪsᴘᴀʏᴇᴅ.
 
-### Anti-Spam:
-- Users are blocked from spamming commands by limiting to 2 commands within 5 seconds.
+### Aɴᴛɪ-Sᴘᴀᴍ:
+- Usᴇʀs ᴀʀᴇ ʙᴏᴄᴋᴇᴅ ғʀᴏᴍ sᴘᴀᴍᴍɪɴɢ ᴄᴏᴍᴍᴀɴᴅs ʙʏ ɪᴍɪᴛɪɴɢ ᴛᴏ 2 ᴄᴏᴍᴍᴀɴᴅs ᴡɪᴛʜɪɴ 5 sᴇᴄᴏɴᴅs.
 """

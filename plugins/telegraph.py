@@ -50,7 +50,7 @@ async def get_link_group(client, message):
 
 __MODULE__ = "Tᴇʟᴇɢʀᴀᴘʜ"
 __HELP__ = """
-This module provides commands to upload media to Telegraph.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴘʀᴏᴠɪᴅᴇs ᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴜᴘᴏᴀᴅ ᴍᴇᴅɪᴀ ᴛᴏ Tᴇᴇɢʀᴀᴘʜ.
 
-- `/tgm`, `/tgt`, `/telegraph`, `/tl`: Upload media to Telegraph.
+- `/ᴛɢᴍ`, `/ᴛɢᴛ`, `/ᴛᴇᴇɢʀᴀᴘʜ`, `/ᴛ`: Uᴘᴏᴀᴅ ᴍᴇᴅɪᴀ ᴛᴏ Tᴇᴇɢʀᴀᴘʜ.
 """

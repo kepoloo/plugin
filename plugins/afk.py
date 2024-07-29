@@ -375,19 +375,19 @@ async def chat_watcher_func(_, message):
 
 __MODULE__ = "AFK"
 __HELP__ = """
-**AFK Command**
+**AFK Cᴏᴍᴍᴀɴᴅ**
 
-This command allows users to set an AFK (Away From Keyboard) status. When a user sets AFK, their status will be displayed whenever someone mentions them or sends a message in a private chat.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀᴏᴡs ᴜsᴇʀs ᴛᴏ sᴇᴛ ᴀɴ AFK (Aᴡᴀʏ Fʀᴏᴍ Kᴇʏʙᴏᴀʀᴅ) sᴛᴀᴛᴜs. Wʜᴇɴ ᴀ ᴜsᴇʀ sᴇᴛs AFK, ᴛʜᴇɪʀ sᴛᴀᴛᴜs ᴡɪ ʙᴇ ᴅɪsᴘᴀʏᴇᴅ ᴡʜᴇɴᴇᴠᴇʀ sᴏᴍᴇᴏɴᴇ ᴍᴇɴᴛɪᴏɴs ᴛʜᴇᴍ ᴏʀ sᴇɴᴅs ᴀ ᴍᴇssᴀɢᴇ ɪɴ ᴀ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ.
 
-Features:
-- Set AFK status with optional reason and media (animation, photo).
-- Display AFK status when mentioned in a group or private chat.
-- Automatically remove AFK status upon user's return.
-- Supports various types of AFK messages: text, text with reason, animation, and photo.
+Fᴇᴀᴛᴜʀᴇs:
+- Sᴇᴛ AFK sᴛᴀᴛᴜs ᴡɪᴛʜ ᴏᴘᴛɪᴏɴᴀ ʀᴇᴀsᴏɴ ᴀɴᴅ ᴍᴇᴅɪᴀ (ᴀɴɪᴍᴀᴛɪᴏɴ, ᴘʜᴏᴛᴏ).
+- Dɪsᴘᴀʏ AFK sᴛᴀᴛᴜs ᴡʜᴇɴ ᴍᴇɴᴛɪᴏɴᴇᴅ ɪɴ ᴀ ɢʀᴏᴜᴘ ᴏʀ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ.
+- Aᴜᴛᴏᴍᴀᴛɪᴄᴀʏ ʀᴇᴍᴏᴠᴇ AFK sᴛᴀᴛᴜs ᴜᴘᴏɴ ᴜsᴇʀ's ʀᴇᴛᴜʀɴ.
+- Sᴜᴘᴘᴏʀᴛs ᴠᴀʀɪᴏᴜs ᴛʏᴘᴇs ᴏғ AFK ᴍᴇssᴀɢᴇs: ᴛᴇxᴛ, ᴛᴇxᴛ ᴡɪᴛʜ ʀᴇᴀsᴏɴ, ᴀɴɪᴍᴀᴛɪᴏɴ, ᴀɴᴅ ᴘʜᴏᴛᴏ.
 
-Commands:
-- /afk: Set AFK status. Optionally, provide a reason or reply with media (animation, photo).
-- /brb: same as /afk command.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴀғᴋ: Sᴇᴛ AFK sᴛᴀᴛᴜs. Oᴘᴛɪᴏɴᴀʏ, ᴘʀᴏᴠɪᴅᴇ ᴀ ʀᴇᴀsᴏɴ ᴏʀ ʀᴇᴘʏ ᴡɪᴛʜ ᴍᴇᴅɪᴀ (ᴀɴɪᴍᴀᴛɪᴏɴ, ᴘʜᴏᴛᴏ).
+- /ʙʀʙ: sᴀᴍᴇ ᴀs /ᴀғᴋ ᴄᴏᴍᴍᴀɴᴅ.
 
-Note: When set as AFK, the user's status will be displayed whenever they are mentioned or receive a message in a private chat. AFK status will be automatically removed upon user's return.
+Nᴏᴛᴇ: Wʜᴇɴ sᴇᴛ ᴀs AFK, ᴛʜᴇ ᴜsᴇʀ's sᴛᴀᴛᴜs ᴡɪ ʙᴇ ᴅɪsᴘᴀʏᴇᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴇʏ ᴀʀᴇ ᴍᴇɴᴛɪᴏɴᴇᴅ ᴏʀ ʀᴇᴄᴇɪᴠᴇ ᴀ ᴍᴇssᴀɢᴇ ɪɴ ᴀ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ. AFK sᴛᴀᴛᴜs ᴡɪ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʏ ʀᴇᴍᴏᴠᴇᴅ ᴜᴘᴏɴ ᴜsᴇʀ's ʀᴇᴛᴜʀɴ.
 """

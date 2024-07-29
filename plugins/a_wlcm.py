@@ -173,36 +173,36 @@ async def greet_new_members(_, member: ChatMemberUpdated):
 
 __MODULE__ = "A-Wʟᴄᴍ"
 __HELP__ = """
-## Auto-Welcome Module Commands
+## Aᴜᴛᴏ-Wᴇᴄᴏᴍᴇ Mᴏᴅᴜᴇ Cᴏᴍᴍᴀɴᴅs
 
-### Command: /awelcome
-**Description:**
-Enables or disables the auto-welcome feature in a group chat.
+### Cᴏᴍᴍᴀɴᴅ: /ᴀᴡᴇᴄᴏᴍᴇ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Eɴᴀʙᴇs ᴏʀ ᴅɪsᴀʙᴇs ᴛʜᴇ ᴀᴜᴛᴏ-ᴡᴇᴄᴏᴍᴇ ғᴇᴀᴛᴜʀᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ.
 
-**Usage:**
-/awelcome [on|off]
+**Usᴀɢᴇ:**
+/ᴀᴡᴇᴄᴏᴍᴇ [ᴏɴ|ᴏғғ]
 
-**Details:**
-- on: Enables auto-welcome notifications.
-- off: Disables auto-welcome notifications.
+**Dᴇᴛᴀɪs:**
+- ᴏɴ: Eɴᴀʙᴇs ᴀᴜᴛᴏ-ᴡᴇᴄᴏᴍᴇ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴs.
+- ᴏғғ: Dɪsᴀʙᴇs ᴀᴜᴛᴏ-ᴡᴇᴄᴏᴍᴇ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴs.
 
-**Notes:**
-- Only administrators and the group owner can use this command.
+**Nᴏᴛᴇs:**
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴀɴᴅ ᴛʜᴇ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
 
-### Spam Protection
-Prevents command spamming. If a user sends more than 2 commands within 5 seconds, they will be warned and temporarily blocked.
+### Sᴘᴀᴍ Pʀᴏᴛᴇᴄᴛɪᴏɴ
+Pʀᴇᴠᴇɴᴛs ᴄᴏᴍᴍᴀɴᴅ sᴘᴀᴍᴍɪɴɢ. Iғ ᴀ ᴜsᴇʀ sᴇɴᴅs ᴍᴏʀᴇ ᴛʜᴀɴ 2 ᴄᴏᴍᴍᴀɴᴅs ᴡɪᴛʜɪɴ 5 sᴇᴄᴏɴᴅs, ᴛʜᴇʏ ᴡɪ ʙᴇ ᴡᴀʀɴᴇᴅ ᴀɴᴅ ᴛᴇᴍᴘᴏʀᴀʀɪʏ ʙᴏᴄᴋᴇᴅ.
 
-### Welcome New Members
-Automatically sends a welcome message to new members who join the group.
+### Wᴇᴄᴏᴍᴇ Nᴇᴡ Mᴇᴍʙᴇʀs
+Aᴜᴛᴏᴍᴀᴛɪᴄᴀʏ sᴇɴᴅs ᴀ ᴡᴇᴄᴏᴍᴇ ᴍᴇssᴀɢᴇ ᴛᴏ ɴᴇᴡ ᴍᴇᴍʙᴇʀs ᴡʜᴏ ᴊᴏɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
-**Behavior:**
-- Sends a welcome message mentioning the new user.
-- The message is sent after a 3-second delay.
+**Bᴇʜᴀᴠɪᴏʀ:**
+- Sᴇɴᴅs ᴀ ᴡᴇᴄᴏᴍᴇ ᴍᴇssᴀɢᴇ ᴍᴇɴᴛɪᴏɴɪɴɢ ᴛʜᴇ ɴᴇᴡ ᴜsᴇʀ.
+- Tʜᴇ ᴍᴇssᴀɢᴇ ɪs sᴇɴᴛ ᴀғᴛᴇʀ ᴀ 3-sᴇᴄᴏɴᴅ ᴅᴇᴀʏ.
 
-### Examples
-- /awelcome on: Enables auto-welcome.
-- /awelcome off: Disables auto-welcome.
+### Exᴀᴍᴘᴇs
+- /ᴀᴡᴇᴄᴏᴍᴇ ᴏɴ: Eɴᴀʙᴇs ᴀᴜᴛᴏ-ᴡᴇᴄᴏᴍᴇ.
+- /ᴀᴡᴇᴄᴏᴍᴇ ᴏғғ: Dɪsᴀʙᴇs ᴀᴜᴛᴏ-ᴡᴇᴄᴏᴍᴇ.
 
-If a user sends multiple commands quickly:
-They will receive a spam warning.
+Iғ ᴀ ᴜsᴇʀ sᴇɴᴅs ᴍᴜᴛɪᴘᴇ ᴄᴏᴍᴍᴀɴᴅs ǫᴜɪᴄᴋʏ:
+Tʜᴇʏ ᴡɪ ʀᴇᴄᴇɪᴠᴇ ᴀ sᴘᴀᴍ ᴡᴀʀɴɪɴɢ.
 """

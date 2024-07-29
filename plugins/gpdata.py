@@ -258,20 +258,20 @@ async def bot_leave(_, message):
 
 __MODULE__ = "Gʀᴏᴜᴘ"
 __HELP__ = """
-**Group Management**
+**Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ**
 
-This module provides various commands for managing groups.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴘʀᴏᴠɪᴅᴇs ᴠᴀʀɪᴏᴜs ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ɢʀᴏᴜᴘs.
 
-Commands:
-- /pin: Pin a message in the group.
-- /pinned: View the latest pinned message in the group.
-- /unpin: Unpin a message in the group.
-- /removephoto: Remove the group's profile photo.
-- /setphoto: Set a new profile photo for the group.
-- /settitle: Set a new title for the group.
-- /setdiscription: Set a new description for the group.
-- /leavegroup: Make the bot leave the group.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴘɪɴ: Pɪɴ ᴀ ᴍᴇssᴀɢᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴘɪɴɴᴇᴅ: Vɪᴇᴡ ᴛʜᴇ ᴀᴛᴇsᴛ ᴘɪɴɴᴇᴅ ᴍᴇssᴀɢᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴜɴᴘɪɴ: Uɴᴘɪɴ ᴀ ᴍᴇssᴀɢᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ʀᴇᴍᴏᴠᴇᴘʜᴏᴛᴏ: Rᴇᴍᴏᴠᴇ ᴛʜᴇ ɢʀᴏᴜᴘ's ᴘʀᴏғɪᴇ ᴘʜᴏᴛᴏ.
+- /sᴇᴛᴘʜᴏᴛᴏ: Sᴇᴛ ᴀ ɴᴇᴡ ᴘʀᴏғɪᴇ ᴘʜᴏᴛᴏ ғᴏʀ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /sᴇᴛᴛɪᴛᴇ: Sᴇᴛ ᴀ ɴᴇᴡ ᴛɪᴛᴇ ғᴏʀ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /sᴇᴛᴅɪsᴄʀɪᴘᴛɪᴏɴ: Sᴇᴛ ᴀ ɴᴇᴡ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ғᴏʀ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴇᴀᴠᴇɢʀᴏᴜᴘ: Mᴀᴋᴇ ᴛʜᴇ ʙᴏᴛ ᴇᴀᴠᴇ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
-Note:
-- Only sudo users and admins can use these commands.
+Nᴏᴛᴇ:
+- Oɴʏ sᴜᴅᴏ ᴜsᴇʀs ᴀɴᴅ ᴀᴅᴍɪɴs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
 """

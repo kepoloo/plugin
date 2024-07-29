@@ -80,6 +80,6 @@ async def link_command_handler(client: Client, message: Message):
 
 __MODULE__ = "Gʀᴏᴜᴘ Lɪɴᴋ"
 __HELP__ = """
-- `/givelink`: Get the invite link for the current chat.
-- `/link group_id`: Get information and generate an invite link for the specified group ID.
+- `/ɢɪᴠᴇɪɴᴋ`: Gᴇᴛ ᴛʜᴇ ɪɴᴠɪᴛᴇ ɪɴᴋ ғᴏʀ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴄʜᴀᴛ.
+- `/ɪɴᴋ ɢʀᴏᴜᴘ_ɪᴅ`: Gᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇ ᴀɴ ɪɴᴠɪᴛᴇ ɪɴᴋ ғᴏʀ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ɢʀᴏᴜᴘ ID.
 """

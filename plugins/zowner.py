@@ -107,10 +107,10 @@ async def add_allbot(client, message):
 
 __MODULE__ = "Sᴏᴜʀᴄᴇ"
 __HELP__ = """
-## Repo Source Module
+## Rᴇᴘᴏ Sᴏᴜʀᴄᴇ Mᴏᴅᴜᴇ
 
-This module provides utility commands for users to interact with the bot.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴘʀᴏᴠɪᴅᴇs ᴜᴛɪɪᴛʏ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴜsᴇʀs ᴛᴏ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴛʜᴇ ʙᴏᴛ.
 
-### Commands:
-- `/repo`: Get the link to the bot's source code repository.
+### Cᴏᴍᴍᴀɴᴅs:
+- `/ʀᴇᴘᴏ`: Gᴇᴛ ᴛʜᴇ ɪɴᴋ ᴛᴏ ᴛʜᴇ ʙᴏᴛ's sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ.
 """

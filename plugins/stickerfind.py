@@ -17,18 +17,18 @@ def generate_sticker(client, message):
 
 __MODULE__ = "Sᴛɪᴄᴋᴇʀ Fɪɴᴅ"
 __HELP__ = """
-**Sticker Command**
+**Sᴛɪᴄᴋᴇʀ Cᴏᴍᴍᴀɴᴅ**
 
-This command allows users to send stickers by providing a sticker ID.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀᴏᴡs ᴜsᴇʀs ᴛᴏ sᴇɴᴅ sᴛɪᴄᴋᴇʀs ʙʏ ᴘʀᴏᴠɪᴅɪɴɢ ᴀ sᴛɪᴄᴋᴇʀ ID.
 
-Features:
-- Reply to a command with a sticker ID to send the corresponding sticker.
+Fᴇᴀᴛᴜʀᴇs:
+- Rᴇᴘʏ ᴛᴏ ᴀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ ᴀ sᴛɪᴄᴋᴇʀ ID ᴛᴏ sᴇɴᴅ ᴛʜᴇ ᴄᴏʀʀᴇsᴘᴏɴᴅɪɴɢ sᴛɪᴄᴋᴇʀ.
 
-Commands:
-- /st <sticker_id>: Send a sticker by providing its ID.
+Cᴏᴍᴍᴀɴᴅs:
+- /sᴛ <sᴛɪᴄᴋᴇʀ_ɪᴅ>: Sᴇɴᴅ ᴀ sᴛɪᴄᴋᴇʀ ʙʏ ᴘʀᴏᴠɪᴅɪɴɢ ɪᴛs ID.
 
-Example:
-- /st <sticker_id>: Sends the sticker corresponding to the provided ID.
+Exᴀᴍᴘᴇ:
+- /sᴛ <sᴛɪᴄᴋᴇʀ_ɪᴅ>: Sᴇɴᴅs ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴄᴏʀʀᴇsᴘᴏɴᴅɪɴɢ ᴛᴏ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ID.
 
-Note: Sticker IDs can be obtained from sticker packs or individual stickers.
+Nᴏᴛᴇ: Sᴛɪᴄᴋᴇʀ IDs ᴄᴀɴ ʙᴇ ᴏʙᴛᴀɪɴᴇᴅ ғʀᴏᴍ sᴛɪᴄᴋᴇʀ ᴘᴀᴄᴋs ᴏʀ ɪɴᴅɪᴠɪᴅᴜᴀ sᴛɪᴄᴋᴇʀs.
 """

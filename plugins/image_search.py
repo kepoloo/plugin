@@ -42,19 +42,19 @@ async def pinterest(_, message):
 
 __MODULE__ = "Iᴍᴀɢᴇ Sᴇᴀʀᴄʜ"
 __HELP__ = """
-**Pinterest Image Search**
+**Pɪɴᴛᴇʀᴇsᴛ Iᴍᴀɢᴇ Sᴇᴀʀᴄʜ**
 
-This command allows users to search for images on Pinterest and sends a collection of up to 6 images.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀᴏᴡs ᴜsᴇʀs ᴛᴏ sᴇᴀʀᴄʜ ғᴏʀ ɪᴍᴀɢᴇs ᴏɴ Pɪɴᴛᴇʀᴇsᴛ ᴀɴᴅ sᴇɴᴅs ᴀ ᴄᴏᴇᴄᴛɪᴏɴ ᴏғ ᴜᴘ ᴛᴏ 6 ɪᴍᴀɢᴇs.
 
-Features:
-- Reply to the command with a query to search for images related to that query on Pinterest.
-- Sends up to 6 images found on Pinterest related to the query.
+Fᴇᴀᴛᴜʀᴇs:
+- Rᴇᴘʏ ᴛᴏ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ ᴀ ǫᴜᴇʀʏ ᴛᴏ sᴇᴀʀᴄʜ ғᴏʀ ɪᴍᴀɢᴇs ʀᴇᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ ǫᴜᴇʀʏ ᴏɴ Pɪɴᴛᴇʀᴇsᴛ.
+- Sᴇɴᴅs ᴜᴘ ᴛᴏ 6 ɪᴍᴀɢᴇs ғᴏᴜɴᴅ ᴏɴ Pɪɴᴛᴇʀᴇsᴛ ʀᴇᴀᴛᴇᴅ ᴛᴏ ᴛʜᴇ ǫᴜᴇʀʏ.
 
-Commands:
-- /image <query>: Search for images related to the provided query on Pinterest.
+Cᴏᴍᴍᴀɴᴅs:
+- /ɪᴍᴀɢᴇ <ǫᴜᴇʀʏ>: Sᴇᴀʀᴄʜ ғᴏʀ ɪᴍᴀɢᴇs ʀᴇᴀᴛᴇᴅ ᴛᴏ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ǫᴜᴇʀʏ ᴏɴ Pɪɴᴛᴇʀᴇsᴛ.
 
-Example:
-- /image <query>: Searches for images related to the provided query on Pinterest and sends up to 6 images.
+Exᴀᴍᴘᴇ:
+- /ɪᴍᴀɢᴇ <ǫᴜᴇʀʏ>: Sᴇᴀʀᴄʜᴇs ғᴏʀ ɪᴍᴀɢᴇs ʀᴇᴀᴛᴇᴅ ᴛᴏ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ǫᴜᴇʀʏ ᴏɴ Pɪɴᴛᴇʀᴇsᴛ ᴀɴᴅ sᴇɴᴅs ᴜᴘ ᴛᴏ 6 ɪᴍᴀɢᴇs.
 
-Note: This command uses an external Pinterest API to fetch images.
+Nᴏᴛᴇ: Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇs ᴀɴ ᴇxᴛᴇʀɴᴀ Pɪɴᴛᴇʀᴇsᴛ API ᴛᴏ ғᴇᴛᴄʜ ɪᴍᴀɢᴇs.
 """

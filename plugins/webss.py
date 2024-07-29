@@ -30,18 +30,18 @@ async def take_ss(_, message: Message):
 
 __MODULE__ = "Wᴇʙ Ss"
 __HELP__ = """
-**Web Screenshot**
+**Wᴇʙ Sᴄʀᴇᴇɴsʜᴏᴛ**
 
-This command allows users to take a screenshot of a webpage and send it as a photo.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀᴏᴡs ᴜsᴇʀs ᴛᴏ ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴀ ᴡᴇʙᴘᴀɢᴇ ᴀɴᴅ sᴇɴᴅ ɪᴛ ᴀs ᴀ ᴘʜᴏᴛᴏ.
 
-Features:
-- Reply to the command with a URL to take a screenshot of that webpage and send it as a photo.
+Fᴇᴀᴛᴜʀᴇs:
+- Rᴇᴘʏ ᴛᴏ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ ᴀ URL ᴛᴏ ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴛʜᴀᴛ ᴡᴇʙᴘᴀɢᴇ ᴀɴᴅ sᴇɴᴅ ɪᴛ ᴀs ᴀ ᴘʜᴏᴛᴏ.
 
-Commands:
-- /webss <url>: Take a screenshot of the provided URL and send it as a photo.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴡᴇʙss <ᴜʀ>: Tᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ URL ᴀɴᴅ sᴇɴᴅ ɪᴛ ᴀs ᴀ ᴘʜᴏᴛᴏ.
 
-Example:
-- /webss <url>: Takes a screenshot of the provided URL and sends it as a photo.
+Exᴀᴍᴘᴇ:
+- /ᴡᴇʙss <ᴜʀ>: Tᴀᴋᴇs ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ URL ᴀɴᴅ sᴇɴᴅs ɪᴛ ᴀs ᴀ ᴘʜᴏᴛᴏ.
 
-Note: This command uses an external service to take screenshots of webpages.
+Nᴏᴛᴇ: Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇs ᴀɴ ᴇxᴛᴇʀɴᴀ sᴇʀᴠɪᴄᴇ ᴛᴏ ᴛᴀᴋᴇ sᴄʀᴇᴇɴsʜᴏᴛs ᴏғ ᴡᴇʙᴘᴀɢᴇs.
 """

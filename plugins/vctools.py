@@ -98,31 +98,31 @@ async def search(event):
 __MODULE__ = "Mᴀᴛʜ"
 __HELP__ = """
 
-## Math Command Help
+## Mᴀᴛʜ Cᴏᴍᴍᴀɴᴅ Hᴇᴘ
 
-### 1. /math [expression]
-**Description:**
-Calculates the result of a mathematical expression.
+### 1. /ᴍᴀᴛʜ [ᴇxᴘʀᴇssɪᴏɴ]
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Cᴀᴄᴜᴀᴛᴇs ᴛʜᴇ ʀᴇsᴜᴛ ᴏғ ᴀ ᴍᴀᴛʜᴇᴍᴀᴛɪᴄᴀ ᴇxᴘʀᴇssɪᴏɴ.
 
-**Usage:**
-/math [expression]
+**Usᴀɢᴇ:**
+/ᴍᴀᴛʜ [ᴇxᴘʀᴇssɪᴏɴ]
 
-**Details:**
-- Supports basic arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
-- Returns the result of the expression.
-- Displays "Invalid expression" if the expression is not valid.
+**Dᴇᴛᴀɪs:**
+- Sᴜᴘᴘᴏʀᴛs ʙᴀsɪᴄ ᴀʀɪᴛʜᴍᴇᴛɪᴄ ᴏᴘᴇʀᴀᴛɪᴏɴs: ᴀᴅᴅɪᴛɪᴏɴ (+), sᴜʙᴛʀᴀᴄᴛɪᴏɴ (-), ᴍᴜᴛɪᴘɪᴄᴀᴛɪᴏɴ (*), ᴀɴᴅ ᴅɪᴠɪsɪᴏɴ (/).
+- Rᴇᴛᴜʀɴs ᴛʜᴇ ʀᴇsᴜᴛ ᴏғ ᴛʜᴇ ᴇxᴘʀᴇssɪᴏɴ.
+- Dɪsᴘᴀʏs "Iɴᴠᴀɪᴅ ᴇxᴘʀᴇssɪᴏɴ" ɪғ ᴛʜᴇ ᴇxᴘʀᴇssɪᴏɴ ɪs ɴᴏᴛ ᴠᴀɪᴅ.
 
-## Google Search Command Help
+## Gᴏᴏɢᴇ Sᴇᴀʀᴄʜ Cᴏᴍᴍᴀɴᴅ Hᴇᴘ
 
-### 1. /spg [query]
-**Description:**
-Searches Google and displays search results.
+### 1. /sᴘɢ [ǫᴜᴇʀʏ]
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Sᴇᴀʀᴄʜᴇs Gᴏᴏɢᴇ ᴀɴᴅ ᴅɪsᴘᴀʏs sᴇᴀʀᴄʜ ʀᴇsᴜᴛs.
 
-**Usage:**
-/spg [query]
+**Usᴀɢᴇ:**
+/sᴘɢ [ǫᴜᴇʀʏ]
 
-**Details:**
-- Searches Google for the specified query.
-- Displays search results with titles and links.
-- Supports pagination with next button to view more results.
+**Dᴇᴛᴀɪs:**
+- Sᴇᴀʀᴄʜᴇs Gᴏᴏɢᴇ ғᴏʀ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ǫᴜᴇʀʏ.
+- Dɪsᴘᴀʏs sᴇᴀʀᴄʜ ʀᴇsᴜᴛs ᴡɪᴛʜ ᴛɪᴛᴇs ᴀɴᴅ ɪɴᴋs.
+- Sᴜᴘᴘᴏʀᴛs ᴘᴀɢɪɴᴀᴛɪᴏɴ ᴡɪᴛʜ ɴᴇxᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴠɪᴇᴡ ᴍᴏʀᴇ ʀᴇsᴜᴛs.
 """

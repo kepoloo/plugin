@@ -299,24 +299,24 @@ async def msg_quotly_cmd(self: app, ctx: Message):
 
 __MODULE__ = "Qᴜᴏᴛʟʏ"
 __HELP__ = """
-## Quotly Command Help
+## Qᴜᴏᴛʏ Cᴏᴍᴍᴀɴᴅ Hᴇᴘ
 
-**Description:**
-This command generates a stylized quote from a message or a range of messages.
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇs ᴀ sᴛʏɪᴢᴇᴅ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴀ ᴍᴇssᴀɢᴇ ᴏʀ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs.
 
-**Usage:**
-/q - Generate a quote from the replied message.
-/r - Generate a quote from a range of messages.
+**Usᴀɢᴇ:**
+/ǫ - Gᴇɴᴇʀᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ.
+/ʀ - Gᴇɴᴇʀᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs.
 
-**Details:**
-- Supports generating quotes from single messages or a range of messages.
-- The `/q` command generates a quote from the replied message.
-- The `/r` command generates a quote from a range of messages, specified by a number following the command.
-- The range must be between 2 and 10 messages.
-- The generated quote is returned as a sticker.
+**Dᴇᴛᴀɪs:**
+- Sᴜᴘᴘᴏʀᴛs ɢᴇɴᴇʀᴀᴛɪɴɢ ǫᴜᴏᴛᴇs ғʀᴏᴍ sɪɴɢᴇ ᴍᴇssᴀɢᴇs ᴏʀ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs.
+- Tʜᴇ `/ǫ` ᴄᴏᴍᴍᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇs ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ.
+- Tʜᴇ `/ʀ` ᴄᴏᴍᴍᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇs ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs, sᴘᴇᴄɪғɪᴇᴅ ʙʏ ᴀ ɴᴜᴍʙᴇʀ ғᴏᴏᴡɪɴɢ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.
+- Tʜᴇ ʀᴀɴɢᴇ ᴍᴜsᴛ ʙᴇ ʙᴇᴛᴡᴇᴇɴ 2 ᴀɴᴅ 10 ᴍᴇssᴀɢᴇs.
+- Tʜᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ ǫᴜᴏᴛᴇ ɪs ʀᴇᴛᴜʀɴᴇᴅ ᴀs ᴀ sᴛɪᴄᴋᴇʀ.
 
-**Examples:**
-- /q
-- /r 5
+**Exᴀᴍᴘᴇs:**
+- /ǫ
+- /ʀ 5
 
 """

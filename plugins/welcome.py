@@ -238,15 +238,15 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 
 __MODULE__ = "Wᴇʟᴄᴏᴍᴇ"
 __HELP__ = """
-## Welcome Module
+## Wᴇᴄᴏᴍᴇ Mᴏᴅᴜᴇ
 
-This module handles welcome messages for new members joining a group.
+Tʜɪs ᴍᴏᴅᴜᴇ ʜᴀɴᴅᴇs ᴡᴇᴄᴏᴍᴇ ᴍᴇssᴀɢᴇs ғᴏʀ ɴᴇᴡ ᴍᴇᴍʙᴇʀs ᴊᴏɪɴɪɴɢ ᴀ ɢʀᴏᴜᴘ.
 
-### Commands:
-- `/welcome [on|off]`: Enable or disable welcome notifications in the group.
+### Cᴏᴍᴍᴀɴᴅs:
+- `/ᴡᴇᴄᴏᴍᴇ [ᴏɴ|ᴏғғ]`: Eɴᴀʙᴇ ᴏʀ ᴅɪsᴀʙᴇ ᴡᴇᴄᴏᴍᴇ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
-### Features:
-- Automatically sends a welcome message when a new member joins the group.
-- Allows admins to enable or disable welcome notifications.
+### Fᴇᴀᴛᴜʀᴇs:
+- Aᴜᴛᴏᴍᴀᴛɪᴄᴀʏ sᴇɴᴅs ᴀ ᴡᴇᴄᴏᴍᴇ ᴍᴇssᴀɢᴇ ᴡʜᴇɴ ᴀ ɴᴇᴡ ᴍᴇᴍʙᴇʀ ᴊᴏɪɴs ᴛʜᴇ ɢʀᴏᴜᴘ.
+- Aᴏᴡs ᴀᴅᴍɪɴs ᴛᴏ ᴇɴᴀʙᴇ ᴏʀ ᴅɪsᴀʙᴇ ᴡᴇᴄᴏᴍᴇ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴs.
 
 """

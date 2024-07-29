@@ -62,21 +62,21 @@ async def github(_, message):
 
 __MODULE__ = "Gɪᴛʜᴜʙ"
 __HELP__ = """
-## GitHub Commands Help
+## GɪᴛHᴜʙ Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /github or /git
-**Description:**
-Fetches GitHub user information.
+### 1. /ɢɪᴛʜᴜʙ ᴏʀ /ɢɪᴛ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Fᴇᴛᴄʜᴇs GɪᴛHᴜʙ ᴜsᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
 
-**Usage:**
-/github [username]
+**Usᴀɢᴇ:**
+/ɢɪᴛʜᴜʙ [ᴜsᴇʀɴᴀᴍᴇ]
 
-**Details:**
-- Retrieves information about the specified GitHub user.
-- Displays details such as username, bio, company, repositories, followers, and more.
-- Provides a link to the user's GitHub profile.
-- Accessible by providing a valid GitHub username after the command.
+**Dᴇᴛᴀɪs:**
+- Rᴇᴛʀɪᴇᴠᴇs ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ GɪᴛHᴜʙ ᴜsᴇʀ.
+- Dɪsᴘᴀʏs ᴅᴇᴛᴀɪs sᴜᴄʜ ᴀs ᴜsᴇʀɴᴀᴍᴇ, ʙɪᴏ, ᴄᴏᴍᴘᴀɴʏ, ʀᴇᴘᴏsɪᴛᴏʀɪᴇs, ғᴏᴏᴡᴇʀs, ᴀɴᴅ ᴍᴏʀᴇ.
+- Pʀᴏᴠɪᴅᴇs ᴀ ɪɴᴋ ᴛᴏ ᴛʜᴇ ᴜsᴇʀ's GɪᴛHᴜʙ ᴘʀᴏғɪᴇ.
+- Aᴄᴄᴇssɪʙᴇ ʙʏ ᴘʀᴏᴠɪᴅɪɴɢ ᴀ ᴠᴀɪᴅ GɪᴛHᴜʙ ᴜsᴇʀɴᴀᴍᴇ ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.
 
-**Examples:**
-- `/github VIP-BOY-OP`
+**Exᴀᴍᴘᴇs:**
+- `/ɢɪᴛʜᴜʙ VIP-BOY-OP`
 """

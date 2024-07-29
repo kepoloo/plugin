@@ -56,27 +56,27 @@ async def check_bots_command(client, message):
 
 __MODULE__ = "Bᴏᴛsᴄʜᴋ"
 __HELP__ = """
-## Bots Check Command
+## Bᴏᴛs Cʜᴇᴄᴋ Cᴏᴍᴍᴀɴᴅ
 
-### Command: /botschk
-**Description:**
-Checks the online status of a specified bot by sending it a /start message.
+### Cᴏᴍᴍᴀɴᴅ: /ʙᴏᴛsᴄʜᴋ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Cʜᴇᴄᴋs ᴛʜᴇ ᴏɴɪɴᴇ sᴛᴀᴛᴜs ᴏғ ᴀ sᴘᴇᴄɪғɪᴇᴅ ʙᴏᴛ ʙʏ sᴇɴᴅɪɴɢ ɪᴛ ᴀ /sᴛᴀʀᴛ ᴍᴇssᴀɢᴇ.
 
-**Usage:**
-/botschk Bot_Username
+**Usᴀɢᴇ:**
+/ʙᴏᴛsᴄʜᴋ Bᴏᴛ_Usᴇʀɴᴀᴍᴇ
 
-**Details:**
-- Sends /start to the specified bot and checks if it responds.
-- Displays the bot's status as either online or offline.
+**Dᴇᴛᴀɪs:**
+- Sᴇɴᴅs /sᴛᴀʀᴛ ᴛᴏ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ʙᴏᴛ ᴀɴᴅ ᴄʜᴇᴄᴋs ɪғ ɪᴛ ʀᴇsᴘᴏɴᴅs.
+- Dɪsᴘᴀʏs ᴛʜᴇ ʙᴏᴛ's sᴛᴀᴛᴜs ᴀs ᴇɪᴛʜᴇʀ ᴏɴɪɴᴇ ᴏʀ ᴏғғɪɴᴇ.
 
-**Examples:**
-- /botschk @YourBotUsername: Checks if @YourBotUsername is online or offline.
+**Exᴀᴍᴘᴇs:**
+- /ʙᴏᴛsᴄʜᴋ @YᴏᴜʀBᴏᴛUsᴇʀɴᴀᴍᴇ: Cʜᴇᴄᴋs ɪғ @YᴏᴜʀBᴏᴛUsᴇʀɴᴀᴍᴇ ɪs ᴏɴɪɴᴇ ᴏʀ ᴏғғɪɴᴇ.
 
-**Notes:**
-- The bot username must be provided as an argument.
-- The command will display an error message if the username is incorrect or if there are limitations.
+**Nᴏᴛᴇs:**
+- Tʜᴇ ʙᴏᴛ ᴜsᴇʀɴᴀᴍᴇ ᴍᴜsᴛ ʙᴇ ᴘʀᴏᴠɪᴅᴇᴅ ᴀs ᴀɴ ᴀʀɢᴜᴍᴇɴᴛ.
+- Tʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴡɪ ᴅɪsᴘᴀʏ ᴀɴ ᴇʀʀᴏʀ ᴍᴇssᴀɢᴇ ɪғ ᴛʜᴇ ᴜsᴇʀɴᴀᴍᴇ ɪs ɪɴᴄᴏʀʀᴇᴄᴛ ᴏʀ ɪғ ᴛʜᴇʀᴇ ᴀʀᴇ ɪᴍɪᴛᴀᴛɪᴏɴs.
 
-**Output:**
-- Displays the bot's mention and its online status.
-- Shows the last checked time.
+**Oᴜᴛᴘᴜᴛ:**
+- Dɪsᴘᴀʏs ᴛʜᴇ ʙᴏᴛ's ᴍᴇɴᴛɪᴏɴ ᴀɴᴅ ɪᴛs ᴏɴɪɴᴇ sᴛᴀᴛᴜs.
+- Sʜᴏᴡs ᴛʜᴇ ᴀsᴛ ᴄʜᴇᴄᴋᴇᴅ ᴛɪᴍᴇ.
 """

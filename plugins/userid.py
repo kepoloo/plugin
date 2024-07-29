@@ -70,32 +70,32 @@ async def getid(client, message):
 
 __MODULE__ = "Usᴇʀɪᴅ"
 __HELP__ = """
-## User ID Commands Help
+## Usᴇʀ ID Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /me
-**Description:**
-Get your and replied user's IDs along with chat ID.
+### 1. /ᴍᴇ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Gᴇᴛ ʏᴏᴜʀ ᴀɴᴅ ʀᴇᴘɪᴇᴅ ᴜsᴇʀ's IDs ᴀᴏɴɢ ᴡɪᴛʜ ᴄʜᴀᴛ ID.
 
-**Usage:**
-/me [reply to a message]
+**Usᴀɢᴇ:**
+/ᴍᴇ [ʀᴇᴘʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ]
 
-**Details:**
-- Retrieves your Telegram ID and the ID of the user you replied to.
-- Also provides the ID of the chat where the command is used.
+**Dᴇᴛᴀɪs:**
+- Rᴇᴛʀɪᴇᴠᴇs ʏᴏᴜʀ Tᴇᴇɢʀᴀᴍ ID ᴀɴᴅ ᴛʜᴇ ID ᴏғ ᴛʜᴇ ᴜsᴇʀ ʏᴏᴜ ʀᴇᴘɪᴇᴅ ᴛᴏ.
+- Asᴏ ᴘʀᴏᴠɪᴅᴇs ᴛʜᴇ ID ᴏғ ᴛʜᴇ ᴄʜᴀᴛ ᴡʜᴇʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ɪs ᴜsᴇᴅ.
 
-### 2. /id [username/ID]
-**Description:**
-Get message ID, your ID, user's ID (if provided), and chat ID.
+### 2. /ɪᴅ [ᴜsᴇʀɴᴀᴍᴇ/ID]
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Gᴇᴛ ᴍᴇssᴀɢᴇ ID, ʏᴏᴜʀ ID, ᴜsᴇʀ's ID (ɪғ ᴘʀᴏᴠɪᴅᴇᴅ), ᴀɴᴅ ᴄʜᴀᴛ ID.
 
-**Usage:**
-/id [username/ID]
+**Usᴀɢᴇ:**
+/ɪᴅ [ᴜsᴇʀɴᴀᴍᴇ/ID]
 
-**Details:**
-- Retrieves the ID of the message, your Telegram ID, and the chat's ID.
-- If a username or ID is provided, also retrieves the ID of the specified user.
-- Additional information such as replied message ID and chat ID is provided if applicable.
+**Dᴇᴛᴀɪs:**
+- Rᴇᴛʀɪᴇᴠᴇs ᴛʜᴇ ID ᴏғ ᴛʜᴇ ᴍᴇssᴀɢᴇ, ʏᴏᴜʀ Tᴇᴇɢʀᴀᴍ ID, ᴀɴᴅ ᴛʜᴇ ᴄʜᴀᴛ's ID.
+- Iғ ᴀ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ID ɪs ᴘʀᴏᴠɪᴅᴇᴅ, ᴀsᴏ ʀᴇᴛʀɪᴇᴠᴇs ᴛʜᴇ ID ᴏғ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ᴜsᴇʀ.
+- Aᴅᴅɪᴛɪᴏɴᴀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ sᴜᴄʜ ᴀs ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ ID ᴀɴᴅ ᴄʜᴀᴛ ID ɪs ᴘʀᴏᴠɪᴅᴇᴅ ɪғ ᴀᴘᴘɪᴄᴀʙᴇ.
 
-**Examples:**
-- `/id username`
-- `/id 123456789`
+**Exᴀᴍᴘᴇs:**
+- `/ɪᴅ ᴜsᴇʀɴᴀᴍᴇ`
+- `/ɪᴅ 123456789`
 """

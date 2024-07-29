@@ -317,19 +317,19 @@ async def cancel_spam(client, message):
 
 __MODULE__ = "Sɪɴɢʟᴇ Tᴀɢ"
 __HELP__ = """
-**Tag All Users One By One**
+**Tᴀɢ A Usᴇʀs Oɴᴇ Bʏ Oɴᴇ**
 
-This module allows administrators to mention all members in a group or VC.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀ ᴍᴇᴍʙᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ ᴏʀ VC.
 
-Commands:
-- /tagall: Mention all members one by one in the group.
-- /vctag: Mention all members one by one for the voice chat.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴛᴀɢᴀ: Mᴇɴᴛɪᴏɴ ᴀ ᴍᴇᴍʙᴇʀs ᴏɴᴇ ʙʏ ᴏɴᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /ᴠᴄᴛᴀɢ: Mᴇɴᴛɪᴏɴ ᴀ ᴍᴇᴍʙᴇʀs ᴏɴᴇ ʙʏ ᴏɴᴇ ғᴏʀ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
 
-To stop tagging:
-- /stoptagall: Stop mentioning all members in the group.
-- /stopvctag: Stop mentioning all members in the voice chat.
+Tᴏ sᴛᴏᴘ ᴛᴀɢɢɪɴɢ:
+- /sᴛᴏᴘᴛᴀɢᴀ: Sᴛᴏᴘ ᴍᴇɴᴛɪᴏɴɪɴɢ ᴀ ᴍᴇᴍʙᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /sᴛᴏᴘᴠᴄᴛᴀɢ: Sᴛᴏᴘ ᴍᴇɴᴛɪᴏɴɪɴɢ ᴀ ᴍᴇᴍʙᴇʀs ɪɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
 
-Note:
-- Only administrators can use these commands.
-- Use /stoptagall or /stopvctag to stop tagging.
+Nᴏᴛᴇ:
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
+- Usᴇ /sᴛᴏᴘᴛᴀɢᴀ ᴏʀ /sᴛᴏᴘᴠᴄᴛᴀɢ ᴛᴏ sᴛᴏᴘ ᴛᴀɢɢɪɴɢ.
 """

@@ -146,10 +146,10 @@ async def restriction_app(app: app, message):
 
 __MODULE__ = "Sᴍᴀʀᴛ Bᴀɴ"
 __HELP__ = """
-- `Vip`: [Ban or unban] users.
-- `Piyush`: [Mute, kick, promote, or demote] users.
+- `Vɪᴘ`: [Bᴀɴ ᴏʀ ᴜɴʙᴀɴ] ᴜsᴇʀs.
+- `Pɪʏᴜsʜ`: [Mᴜᴛᴇ, ᴋɪᴄᴋ, ᴘʀᴏᴍᴏᴛᴇ, ᴏʀ ᴅᴇᴍᴏᴛᴇ] ᴜsᴇʀs.
 
-Example:- Vip ban this user (replied his message).
+Exᴀᴍᴘᴇ:- Vɪᴘ ʙᴀɴ ᴛʜɪs ᴜsᴇʀ (ʀᴇᴘɪᴇᴅ ʜɪs ᴍᴇssᴀɢᴇ).
 
-Note:- use without command.
+Nᴏᴛᴇ:- ᴜsᴇ ᴡɪᴛʜᴏᴜᴛ ᴄᴏᴍᴍᴀɴᴅ.
 """

@@ -56,26 +56,26 @@ async def refresh_cat(c, m: CallbackQuery):
 
 __MODULE__ = "Cᴀᴛ"
 __HELP__ = """
-## Cat Command
+## Cᴀᴛ Cᴏᴍᴍᴀɴᴅ
 
-### Command: /cat
-**Description:**
-Fetches a random cat picture or GIF from The Cat API and sends it in the chat.
+### Cᴏᴍᴍᴀɴᴅ: /ᴄᴀᴛ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Fᴇᴛᴄʜᴇs ᴀ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ᴘɪᴄᴛᴜʀᴇ ᴏʀ GIF ғʀᴏᴍ Tʜᴇ Cᴀᴛ API ᴀɴᴅ sᴇɴᴅs ɪᴛ ɪɴ ᴛʜᴇ ᴄʜᴀᴛ.
 
-**Usage:**
-/cat
+**Usᴀɢᴇ:**
+/ᴄᴀᴛ
 
-**Details:**
-- Displays a random cat image or GIF.
-- Includes buttons for refreshing the cat image or closing the message.
+**Dᴇᴛᴀɪs:**
+- Dɪsᴘᴀʏs ᴀ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ɪᴍᴀɢᴇ ᴏʀ GIF.
+- Iɴᴄᴜᴅᴇs ʙᴜᴛᴛᴏɴs ғᴏʀ ʀᴇғʀᴇsʜɪɴɢ ᴛʜᴇ ᴄᴀᴛ ɪᴍᴀɢᴇ ᴏʀ ᴄᴏsɪɴɢ ᴛʜᴇ ᴍᴇssᴀɢᴇ.
 
-**Examples:**
-- /cat: Sends a random cat picture or GIF.
+**Exᴀᴍᴘᴇs:**
+- /ᴄᴀᴛ: Sᴇɴᴅs ᴀ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ᴘɪᴄᴛᴜʀᴇ ᴏʀ GIF.
 
-**Notes:**
-- Users who are banned will not be able to use this command.
+**Nᴏᴛᴇs:**
+- Usᴇʀs ᴡʜᴏ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴡɪ ɴᴏᴛ ʙᴇ ᴀʙᴇ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
 
-### Buttons:
-- **Refresh:** Gets a new cat image or GIF.
-- **Close:** Closes the cat image message.
+### Bᴜᴛᴛᴏɴs:
+- **Rᴇғʀᴇsʜ:** Gᴇᴛs ᴀ ɴᴇᴡ ᴄᴀᴛ ɪᴍᴀɢᴇ ᴏʀ GIF.
+- **Cᴏsᴇ:** Cᴏsᴇs ᴛʜᴇ ᴄᴀᴛ ɪᴍᴀɢᴇ ᴍᴇssᴀɢᴇ.
 """

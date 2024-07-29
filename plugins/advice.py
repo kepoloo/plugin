@@ -18,20 +18,20 @@ async def clean(_, message):
 
 __MODULE__ = "Aᴅᴠɪᴄᴇ"
 __HELP__ = """
-## Advice Command
+## Aᴅᴠɪᴄᴇ Cᴏᴍᴍᴀɴᴅ
 
-### Command: /advice
-**Description:**
-Fetches a random piece of advice from an API and displays it.
-**Usage:**
-/advice
+### Cᴏᴍᴍᴀɴᴅ: /ᴀᴅᴠɪᴄᴇ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Fᴇᴛᴄʜᴇs ᴀ ʀᴀɴᴅᴏᴍ ᴘɪᴇᴄᴇ ᴏғ ᴀᴅᴠɪᴄᴇ ғʀᴏᴍ ᴀɴ API ᴀɴᴅ ᴅɪsᴘᴀʏs ɪᴛ.
+**Usᴀɢᴇ:**
+/ᴀᴅᴠɪᴄᴇ
 
-**Details:**
-- Sends a random piece of advice as a message in the chat.
+**Dᴇᴛᴀɪs:**
+- Sᴇɴᴅs ᴀ ʀᴀɴᴅᴏᴍ ᴘɪᴇᴄᴇ ᴏғ ᴀᴅᴠɪᴄᴇ ᴀs ᴀ ᴍᴇssᴀɢᴇ ɪɴ ᴛʜᴇ ᴄʜᴀᴛ.
 
-**Examples:**
-- /advice: Retrieves and displays advice.
+**Exᴀᴍᴘᴇs:**
+- /ᴀᴅᴠɪᴄᴇ: Rᴇᴛʀɪᴇᴠᴇs ᴀɴᴅ ᴅɪsᴘᴀʏs ᴀᴅᴠɪᴄᴇ.
 
-**Notes:**
-- This command can be used by any user to get a random advice.
+**Nᴏᴛᴇs:**
+- Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ᴜsᴇʀ ᴛᴏ ɢᴇᴛ ᴀ ʀᴀɴᴅᴏᴍ ᴀᴅᴠɪᴄᴇ.
 """

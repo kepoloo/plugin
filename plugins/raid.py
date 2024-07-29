@@ -48,5 +48,5 @@ def spam_command(client, message):
 
 __MODULE__ = "Rᴀɪᴅ"
 __HELP__ = """
-- `/raid`: Reply to a message and use this command to spam the replied user with the provided text.
+- `/ʀᴀɪᴅ`: Rᴇᴘʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ ᴀɴᴅ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴘᴀᴍ ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴜsᴇʀ ᴡɪᴛʜ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ ᴛᴇxᴛ.
 """

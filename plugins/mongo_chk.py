@@ -64,21 +64,21 @@ async def mongo_command(client, message: Message):
 
 __MODULE__ = "Mᴏɴɢᴏ"
 __HELP__ = """
-## MongoDB Commands Help
+## MᴏɴɢᴏDB Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /mongochk
-**Description:**
-Check the validity of a MongoDB URL.
+### 1. /ᴍᴏɴɢᴏᴄʜᴋ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Cʜᴇᴄᴋ ᴛʜᴇ ᴠᴀɪᴅɪᴛʏ ᴏғ ᴀ MᴏɴɢᴏDB URL.
 
-**Usage:**
-/mongochk [mongodb_url]
+**Usᴀɢᴇ:**
+/ᴍᴏɴɢᴏᴄʜᴋ [ᴍᴏɴɢᴏᴅʙ_ᴜʀ]
 
-**Details:**
-- Verifies the validity of the provided MongoDB URL.
-- Sends a success message if the URL is valid and connection is successful.
-- Sends an error message if the URL is invalid or connection fails.
-- Checks for command spamming to prevent abuse.
+**Dᴇᴛᴀɪs:**
+- Vᴇʀɪғɪᴇs ᴛʜᴇ ᴠᴀɪᴅɪᴛʏ ᴏғ ᴛʜᴇ ᴘʀᴏᴠɪᴅᴇᴅ MᴏɴɢᴏDB URL.
+- Sᴇɴᴅs ᴀ sᴜᴄᴄᴇss ᴍᴇssᴀɢᴇ ɪғ ᴛʜᴇ URL ɪs ᴠᴀɪᴅ ᴀɴᴅ ᴄᴏɴɴᴇᴄᴛɪᴏɴ ɪs sᴜᴄᴄᴇssғᴜ.
+- Sᴇɴᴅs ᴀɴ ᴇʀʀᴏʀ ᴍᴇssᴀɢᴇ ɪғ ᴛʜᴇ URL ɪs ɪɴᴠᴀɪᴅ ᴏʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴ ғᴀɪs.
+- Cʜᴇᴄᴋs ғᴏʀ ᴄᴏᴍᴍᴀɴᴅ sᴘᴀᴍᴍɪɴɢ ᴛᴏ ᴘʀᴇᴠᴇɴᴛ ᴀʙᴜsᴇ.
 
-**Examples:**
-- `/mongochk mongodb://localhost:27017`
+**Exᴀᴍᴘᴇs:**
+- `/ᴍᴏɴɢᴏᴄʜᴋ ᴍᴏɴɢᴏᴅʙ://ᴏᴄᴀʜᴏsᴛ:27017`
 """

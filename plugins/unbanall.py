@@ -50,14 +50,14 @@ async def unban_all(_, msg):
 
 __MODULE__ = "Uɴʙᴀɴᴀʟʟ"
 __HELP__ = """
-**Unban All**
+**Uɴʙᴀɴ A**
 
-This module allows administrators to unban all users in a group at once.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜsᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ ᴀᴛ ᴏɴᴄᴇ.
 
-Commands:
-- /unbanall: Start unbanning all users in the group.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴜɴʙᴀɴᴀ: Sᴛᴀʀᴛ ᴜɴʙᴀɴɴɪɴɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
-Note:
-- Only administrators can use this command.
-- The bot must have the necessary permissions to unban users.
+Nᴏᴛᴇ:
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
+- Tʜᴇ ʙᴏᴛ ᴍᴜsᴛ ʜᴀᴠᴇ ᴛʜᴇ ɴᴇᴄᴇssᴀʀʏ ᴘᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴜɴʙᴀɴ ᴜsᴇʀs.
 """

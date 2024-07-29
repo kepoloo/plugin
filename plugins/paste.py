@@ -116,19 +116,19 @@ async def paste_func(_, message):
 
 __MODULE__ = "Pᴀsᴛᴇ"
 __HELP__ = """
-**Paste Command**
+**Pᴀsᴛᴇ Cᴏᴍᴍᴀɴᴅ**
 
-This command allows users to paste text or text files to an online service and generate Carbon images from the content.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀᴏᴡs ᴜsᴇʀs ᴛᴏ ᴘᴀsᴛᴇ ᴛᴇxᴛ ᴏʀ ᴛᴇxᴛ ғɪᴇs ᴛᴏ ᴀɴ ᴏɴɪɴᴇ sᴇʀᴠɪᴄᴇ ᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇs ғʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ.
 
-Features:
-- Reply to a text message or a text file to paste the content to an online service and generate a Carbon image.
-- Supports pasting both plain text and text files.
-- Automatically splits large text files into multiple pages if needed.
-- Uploads the generated Carbon images as replies to the original message.
-- Displays a processing message while pasting and uploading the content.
+Fᴇᴀᴛᴜʀᴇs:
+- Rᴇᴘʏ ᴛᴏ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴏʀ ᴀ ᴛᴇxᴛ ғɪᴇ ᴛᴏ ᴘᴀsᴛᴇ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴛᴏ ᴀɴ ᴏɴɪɴᴇ sᴇʀᴠɪᴄᴇ ᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇ ᴀ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇ.
+- Sᴜᴘᴘᴏʀᴛs ᴘᴀsᴛɪɴɢ ʙᴏᴛʜ ᴘᴀɪɴ ᴛᴇxᴛ ᴀɴᴅ ᴛᴇxᴛ ғɪᴇs.
+- Aᴜᴛᴏᴍᴀᴛɪᴄᴀʏ sᴘɪᴛs ᴀʀɢᴇ ᴛᴇxᴛ ғɪᴇs ɪɴᴛᴏ ᴍᴜᴛɪᴘᴇ ᴘᴀɢᴇs ɪғ ɴᴇᴇᴅᴇᴅ.
+- Uᴘᴏᴀᴅs ᴛʜᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇs ᴀs ʀᴇᴘɪᴇs ᴛᴏ ᴛʜᴇ ᴏʀɪɢɪɴᴀ ᴍᴇssᴀɢᴇ.
+- Dɪsᴘᴀʏs ᴀ ᴘʀᴏᴄᴇssɪɴɢ ᴍᴇssᴀɢᴇ ᴡʜɪᴇ ᴘᴀsᴛɪɴɢ ᴀɴᴅ ᴜᴘᴏᴀᴅɪɴɢ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ.
 
-Commands:
-- /paste: Reply to a text message or a text file to generate Carbon images from the content.
+Cᴏᴍᴍᴀɴᴅs:
+- /ᴘᴀsᴛᴇ: Rᴇᴘʏ ᴛᴏ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴏʀ ᴀ ᴛᴇxᴛ ғɪᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ Cᴀʀʙᴏɴ ɪᴍᴀɢᴇs ғʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ.
 
-Note: Only text files smaller than 1MB can be pasted. Unsupported file types will prompt a message indicating that only text files can be pasted.
+Nᴏᴛᴇ: Oɴʏ ᴛᴇxᴛ ғɪᴇs sᴍᴀᴇʀ ᴛʜᴀɴ 1MB ᴄᴀɴ ʙᴇ ᴘᴀsᴛᴇᴅ. Uɴsᴜᴘᴘᴏʀᴛᴇᴅ ғɪᴇ ᴛʏᴘᴇs ᴡɪ ᴘʀᴏᴍᴘᴛ ᴀ ᴍᴇssᴀɢᴇ ɪɴᴅɪᴄᴀᴛɪɴɢ ᴛʜᴀᴛ ᴏɴʏ ᴛᴇxᴛ ғɪᴇs ᴄᴀɴ ʙᴇ ᴘᴀsᴛᴇᴅ.
 """

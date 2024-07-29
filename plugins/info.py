@@ -263,6 +263,6 @@ async def userinfo(_, message):
 
 __MODULE__ = "Usᴇʀ Iɴғᴏ"
 __HELP__ = """
-/info [user_id]: Get detailed information about a user.
-/userinfo [user_id]: Alias for /info.
+/ɪɴғᴏ [ᴜsᴇʀ_ɪᴅ]: Gᴇᴛ ᴅᴇᴛᴀɪᴇᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.
+/ᴜsᴇʀɪɴғᴏ [ᴜsᴇʀ_ɪᴅ]: Aɪᴀs ғᴏʀ /ɪɴғᴏ.
 """

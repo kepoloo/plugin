@@ -50,13 +50,13 @@ async def ban_all(_, msg):
 
 __MODULE__ = "Bᴀɴᴀʟʟ"
 __HELP__ = """
-**Ban All**
+**Bᴀɴ A**
 
-This module allows sudo users to ban all members from a group, except themselves.
+Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs sᴜᴅᴏ ᴜsᴇʀs ᴛᴏ ʙᴀɴ ᴀ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ, ᴇxᴄᴇᴘᴛ ᴛʜᴇᴍsᴇᴠᴇs.
 
-Command:
-- /banall: Ban all members from the group.
+Cᴏᴍᴍᴀɴᴅ:
+- /ʙᴀɴᴀ: Bᴀɴ ᴀ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
-Note:
-- Only sudo users can use this command.
+Nᴏᴛᴇ:
+- Oɴʏ sᴜᴅᴏ ᴜsᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
 """

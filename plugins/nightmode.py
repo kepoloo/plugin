@@ -155,22 +155,22 @@ scheduler.start()
 
 __MODULE__ = "Nɪɢʜᴛᴍᴏᴅᴇ"
 __HELP__ = """
-## Nightmode Commands Help
+## Nɪɢʜᴛᴍᴏᴅᴇ Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /nightmode
-**Description:**
-Enable or disable nightmode in the current chat.
+### 1. /ɴɪɢʜᴛᴍᴏᴅᴇ
+**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
+Eɴᴀʙᴇ ᴏʀ ᴅɪsᴀʙᴇ ɴɪɢʜᴛᴍᴏᴅᴇ ɪɴ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴄʜᴀᴛ.
 
-**Usage:**
-/nightmode
+**Usᴀɢᴇ:**
+/ɴɪɢʜᴛᴍᴏᴅᴇ
 
-**Details:**
-- Enables or disables nightmode in the chat.
-- Nightmode automatically closes the chat during night hours (12:00 AM to 6:00 AM) and opens it in the morning.
-- Only administrators can enable or disable nightmode.
-- Users can click on the buttons to enable or disable nightmode.
+**Dᴇᴛᴀɪs:**
+- Eɴᴀʙᴇs ᴏʀ ᴅɪsᴀʙᴇs ɴɪɢʜᴛᴍᴏᴅᴇ ɪɴ ᴛʜᴇ ᴄʜᴀᴛ.
+- Nɪɢʜᴛᴍᴏᴅᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʏ ᴄᴏsᴇs ᴛʜᴇ ᴄʜᴀᴛ ᴅᴜʀɪɴɢ ɴɪɢʜᴛ ʜᴏᴜʀs (12:00 AM ᴛᴏ 6:00 AM) ᴀɴᴅ ᴏᴘᴇɴs ɪᴛ ɪɴ ᴛʜᴇ ᴍᴏʀɴɪɴɢ.
+- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴇɴᴀʙᴇ ᴏʀ ᴅɪsᴀʙᴇ ɴɪɢʜᴛᴍᴏᴅᴇ.
+- Usᴇʀs ᴄᴀɴ ᴄɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ᴛᴏ ᴇɴᴀʙᴇ ᴏʀ ᴅɪsᴀʙᴇ ɴɪɢʜᴛᴍᴏᴅᴇ.
 
-**Examples:**
-- `/nightmode`
+**Exᴀᴍᴘᴇs:**
+- `/ɴɪɢʜᴛᴍᴏᴅᴇ`
 
 """

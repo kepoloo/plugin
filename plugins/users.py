@@ -59,12 +59,12 @@ async def user_command(client, message):
 
 __MODULE__ = "Usᴇʀs"
 __HELP__ = """
-/user: Get a list of all members in the chat.
+/ᴜsᴇʀ: Gᴇᴛ ᴀ ɪsᴛ ᴏғ ᴀ ᴍᴇᴍʙᴇʀs ɪɴ ᴛʜᴇ ᴄʜᴀᴛ.
 
-This command is for admins only.
+Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ғᴏʀ ᴀᴅᴍɪɴs ᴏɴʏ.
 
-Features:
-- Tracks the last message timestamp for each user.
-- Prevents command spamming with a threshold of 2 commands within 5 seconds.
-- Exports the list of members to a CSV file and sends it as a document.
+Fᴇᴀᴛᴜʀᴇs:
+- Tʀᴀᴄᴋs ᴛʜᴇ ᴀsᴛ ᴍᴇssᴀɢᴇ ᴛɪᴍᴇsᴛᴀᴍᴘ ғᴏʀ ᴇᴀᴄʜ ᴜsᴇʀ.
+- Pʀᴇᴠᴇɴᴛs ᴄᴏᴍᴍᴀɴᴅ sᴘᴀᴍᴍɪɴɢ ᴡɪᴛʜ ᴀ ᴛʜʀᴇsʜᴏᴅ ᴏғ 2 ᴄᴏᴍᴍᴀɴᴅs ᴡɪᴛʜɪɴ 5 sᴇᴄᴏɴᴅs.
+- Exᴘᴏʀᴛs ᴛʜᴇ ɪsᴛ ᴏғ ᴍᴇᴍʙᴇʀs ᴛᴏ ᴀ CSV ғɪᴇ ᴀɴᴅ sᴇɴᴅs ɪᴛ ᴀs ᴀ ᴅᴏᴄᴜᴍᴇɴᴛ.
 """
