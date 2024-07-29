@@ -6,8 +6,9 @@ on:
       commit_message:
         description: 'Commit message for the changes'
         required: true
+        default: 'checking action'
       sed_command:
-        description: 'Command to run'
+        description: 'SED command to run'
         required: true
 
 jobs:
@@ -18,15 +19,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.10.x"
-
     - name: Run SED command
       run: |
         echo "Running SED command"
-        ${{ github.event.inputs.sed_command }}
+        eval "${{ github.event.inputs.sed_command }}"
+
+    - name: Verify changes
+      run: git status
 
     - name: Configure Git
       run: |
