@@ -64,9 +64,6 @@ jobs:
         echo "Running fifth SED command"
         eval "${{ github.event.inputs.sed_command_5 }}"
 
-    - name: Verify changes
-      run: git status
-
     - name: Configure Git
       run: |
         git config --global user.name "github-actions[bot]"
@@ -80,4 +77,4 @@ jobs:
     - name: Push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: git push origin ${{ github.event.inputs.branch_name }}
+      run: git push -f origin ${{ github.event.inputs.branch_name }}
