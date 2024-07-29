@@ -7,9 +7,21 @@ on:
         description: 'Commit message for the changes'
         required: true
         default: 'checking action'
-      sed_command:
-        description: 'SED command to run'
+      sed_command_1:
+        description: 'First SED command to run'
         required: true
+      sed_command_2:
+        description: 'Second SED command to run (optional)'
+        required: false
+      sed_command_3:
+        description: 'Third SED command to run (optional)'
+        required: false
+      sed_command_4:
+        description: 'Fourth SED command to run (optional)'
+        required: false
+      sed_command_5:
+        description: 'Fifth SED command to run (optional)'
+        required: false
 
 jobs:
   run-commands:
@@ -19,10 +31,34 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Run SED command
+    - name: Run first SED command
       run: |
-        echo "Running SED command"
-        eval "${{ github.event.inputs.sed_command }}"
+        echo "Running first SED command"
+        eval "${{ github.event.inputs.sed_command_1 }}"
+
+    - name: Run optional SED command 2
+      if: ${{ github.event.inputs.sed_command_2 != '' }}
+      run: |
+        echo "Running second SED command"
+        eval "${{ github.event.inputs.sed_command_2 }}"
+
+    - name: Run optional SED command 3
+      if: ${{ github.event.inputs.sed_command_3 != '' }}
+      run: |
+        echo "Running third SED command"
+        eval "${{ github.event.inputs.sed_command_3 }}"
+
+    - name: Run optional SED command 4
+      if: ${{ github.event.inputs.sed_command_4 != '' }}
+      run: |
+        echo "Running fourth SED command"
+        eval "${{ github.event.inputs.sed_command_4 }}"
+
+    - name: Run optional SED command 5
+      if: ${{ github.event.inputs.sed_command_5 != '' }}
+      run: |
+        echo "Running fifth SED command"
+        eval "${{ github.event.inputs.sed_command_5 }}"
 
     - name: Verify changes
       run: git status
