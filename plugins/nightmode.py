@@ -61,7 +61,7 @@ add_buttons = InlineKeyboardMarkup(
 @app.on_message(filters.command("nightmode") & filters.group)
 async def _nightmode(_, message):
     return await message.reply_photo(
-        photo="https://telegra.ph//file/06649d4d0bbf4285238ee.jpg",
+        photo="https://telegra.ph//file/2ca21769aa93db06cf773.jpg",
         caption="**ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ɴɪɢʜᴛᴍᴏᴅᴇ ɪɴ ᴛʜɪs ᴄʜᴀᴛ.**",
         reply_markup=buttons,
     )
@@ -112,7 +112,7 @@ async def start_nightmode():
         try:
             await app.send_photo(
                 add_chat,
-                photo="https://telegra.ph//file/06649d4d0bbf4285238ee.jpg",
+                photo="https://telegra.ph//file/2ca21769aa93db06cf773.jpg",
                 caption=f"**ᴍᴀʏ ᴛʜᴇ ᴀɴɢᴇʟs ғʀᴏᴍ ʜᴇᴀᴠᴇɴ ʙʀɪɴɢ ᴛʜᴇ sᴡᴇᴇᴛᴇsᴛ ᴏғ ᴀʟʟ ᴅʀᴇᴀᴍs ғᴏʀ ʏᴏᴜ. ᴍᴀʏ ʏᴏᴜ ʜᴀᴠᴇ ʟᴏɴɢ ᴀɴᴅ ʙʟɪssғᴜʟ sʟᴇᴇᴘ ғᴜʟʟ ᴏғ ʜᴀᴘᴘʏ ᴅʀᴇᴀᴍs.\n\nɢʀᴏᴜᴘ ɪs ᴄʟᴏsɪɴɢ ɢᴏᴏᴅ ɴɪɢʜᴛ ᴇᴠᴇʀʏᴏɴᴇ  !**",
                 reply_markup=add_buttons,
             )
