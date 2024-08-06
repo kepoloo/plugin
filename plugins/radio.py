@@ -25,15 +25,11 @@ from VIPMUSIC.utils.logger import play_logs
 from VIPMUSIC.utils.stream.stream import stream
 
 RADIO_STATION = {
-    "air bilaspur": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
-    "air raipur": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
-    "capital fm": "http://media-ice.musicradio.com/CapitalMP3?.mp3&listening-from-radio-garden=1616312105154",
-    "english": "https://hls-01-regions.emgsound.ru/11_msk/playlist.m3u8",
-    "mirchi": "http://peridot.streamguys.com:7150/Mirchi",
-    "radio today": "http://stream.zenolive.com/8wv4d8g4344tv",
-    "youtube": "https://www.youtube.com/live/eu191hR_LEc?si=T-9QYD548jd0Mogp",
-    "zee news": "https://www.youtube.com/live/TPcmrPrygDc?si=hiHBkIidgurQAd1P",
-    "aaj tak": "https://www.youtube.com/live/Nq2wYlWFucg?si=usY4UYiSBInKA0S1",
+    "IRADIO": "https://n03.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABj8uuZsUA35B3Wyo8o0tCGg",
+    "TEBET": "https://c4.siar.us/proxy/radiotebet/stream",
+    "GENTARA": "https://s1.gntr.net/listen/radio_gentara/gentara64",
+    "PRAMBORS": "https://np.tritondigital.com/public/nowplaying?mountName=PRAMBORS_FM&numberToFetch=1&eventType=track&request.preventCache=1721589576555",
+    "DELTA": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3",
 }
 
 valid_stations = "\n".join([f"`{name}`" for name in sorted(RADIO_STATION.keys())])
