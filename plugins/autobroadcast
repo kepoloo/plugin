@@ -25,7 +25,7 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ Click & Get ₹100 ๏",
+                "๏ Click ๏",
                 url=f"https://okwin.one/#/register?invitationCode=8284112316",
             )
         ]
