@@ -8,10 +8,10 @@ from VIPMUSIC.utils.database import get_assistant
 
 # Assuming Userbot is defined elsewhere
 
-last_checked_time = None
+last_checked_time = True
 
 
-@app.on_message(filters.command("botschk"))
+@app.on_message(filters.command("cekbot"))
 async def check_bots_command(client, message):
     global last_checked_time
     try:
@@ -47,36 +47,36 @@ async def check_bots_command(client, message):
             await message.reply_text(f"{response}⏲️ ʟᴀsᴛ ᴄʜᴇᴄᴋ: {last_checked_time}")
         else:
             await message.reply_text(
-                "ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ.\n\nᴘʟᴇᴀsᴇ ᴜsᴇ /botschk Bot_Username\n\nʟɪᴋᴇ :- `/botschk @StreamingMusikBot`"
+                "ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ.\n\nᴘʟᴇᴀsᴇ ᴜsᴇ /cekbot Bot_Username\n\nʟɪᴋᴇ :- `/cekbot @AnonynmousStreamBot`"
             )
     except Exception as e:
         await message.reply_text(f"An error occurred: {e}")
-        print(f"Error occurred during /botschk command: {e}")
+        print(f"Error occurred during /cekbot command: {e}")
 
 
-__MODULE__ = "Bᴏᴛsᴄʜᴋ"
+__MODULE__ = "ʙᴏᴛꜱᴄʜᴋ"
 __HELP__ = """
 ## Bᴏᴛs Cʜᴇᴄᴋ Cᴏᴍᴍᴀɴᴅ
 
-### Cᴏᴍᴍᴀɴᴅ: /ʙᴏᴛsᴄʜᴋ
+### Cᴏᴍᴍᴀɴᴅ: /cekbot
 **Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
 Cʜᴇᴄᴋs ᴛʜᴇ ᴏɴɪɴᴇ sᴛᴀᴛᴜs ᴏғ ᴀ sᴘᴇᴄɪғɪᴇᴅ ʙᴏᴛ ʙʏ sᴇɴᴅɪɴɢ ɪᴛ ᴀ /sᴛᴀʀᴛ ᴍᴇssᴀɢᴇ.
 
 **Usᴀɢᴇ:**
-/ʙᴏᴛsᴄʜᴋ Bᴏᴛ_Usᴇʀɴᴀᴍᴇ
+/cekbot Bᴏᴛ_Usᴇʀɴᴀᴍᴇ
 
 **Dᴇᴛᴀɪs:**
 - Sᴇɴᴅs /sᴛᴀʀᴛ ᴛᴏ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ ʙᴏᴛ ᴀɴᴅ ᴄʜᴇᴄᴋs ɪғ ɪᴛ ʀᴇsᴘᴏɴᴅs.
-- Dɪsᴘᴀʏs ᴛʜᴇ ʙᴏᴛ's sᴛᴀᴛᴜs ᴀs ᴇɪᴛʜᴇʀ ᴏɴɪɴᴇ ᴏʀ ᴏғғɪɴᴇ.
+- Dɪsᴘʟᴀʏs ᴛʜᴇ ʙᴏᴛ's sᴛᴀᴛᴜs ᴀs ᴇɪᴛʜᴇʀ ᴏɴɪɴᴇ ᴏʀ ᴏғғʟɪɴᴇ.
 
 **Exᴀᴍᴘᴇs:**
-- /ʙᴏᴛsᴄʜᴋ @YᴏᴜʀBᴏᴛUsᴇʀɴᴀᴍᴇ: Cʜᴇᴄᴋs ɪғ @YᴏᴜʀBᴏᴛUsᴇʀɴᴀᴍᴇ ɪs ᴏɴɪɴᴇ ᴏʀ ᴏғғɪɴᴇ.
+- /cekbot @YᴏᴜʀBᴏᴛUsᴇʀɴᴀᴍᴇ: Cʜᴇᴄᴋs ɪғ @YᴏᴜʀBᴏᴛUsᴇʀɴᴀᴍᴇ ɪs ᴏɴʟɪɴᴇ ᴏʀ ᴏғғɪʟɴᴇ.
 
 **Nᴏᴛᴇs:**
 - Tʜᴇ ʙᴏᴛ ᴜsᴇʀɴᴀᴍᴇ ᴍᴜsᴛ ʙᴇ ᴘʀᴏᴠɪᴅᴇᴅ ᴀs ᴀɴ ᴀʀɢᴜᴍᴇɴᴛ.
-- Tʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴡɪ ᴅɪsᴘᴀʏ ᴀɴ ᴇʀʀᴏʀ ᴍᴇssᴀɢᴇ ɪғ ᴛʜᴇ ᴜsᴇʀɴᴀᴍᴇ ɪs ɪɴᴄᴏʀʀᴇᴄᴛ ᴏʀ ɪғ ᴛʜᴇʀᴇ ᴀʀᴇ ɪᴍɪᴛᴀᴛɪᴏɴs.
+- Tʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴅɪsᴘʟᴀʏ ᴀɴ ᴇʀʀᴏʀ ᴍᴇssᴀɢᴇ ɪғ ᴛʜᴇ ᴜsᴇʀɴᴀᴍᴇ ɪs ɪɴᴄᴏʀʀᴇᴄᴛ ᴏʀ ɪғ ᴛʜᴇʀᴇ ᴀʀᴇ ɪᴍɪᴛᴀᴛɪᴏɴs.
 
 **Oᴜᴛᴘᴜᴛ:**
-- Dɪsᴘᴀʏs ᴛʜᴇ ʙᴏᴛ's ᴍᴇɴᴛɪᴏɴ ᴀɴᴅ ɪᴛs ᴏɴɪɴᴇ sᴛᴀᴛᴜs.
+- Dɪsᴘʟᴀʏs ᴛʜᴇ ʙᴏᴛ's ᴍᴇɴᴛɪᴏɴ ᴀɴᴅ ɪᴛs ᴏɴʟɪɴᴇ sᴛᴀᴛᴜs.
 - Sʜᴏᴡs ᴛʜᴇ ᴀsᴛ ᴄʜᴇᴄᴋᴇᴅ ᴛɪᴍᴇ.
 """
