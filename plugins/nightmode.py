@@ -153,11 +153,11 @@ scheduler = AsyncIOScheduler(timezone="Asia/Kolkata")
 scheduler.add_job(close_nightmode, trigger="cron", hour=6, minute=1)
 scheduler.start()
 
-__MODULE__ = "Nɪɢʜᴛᴍᴏᴅᴇ"
+__MODULE__ = "ɴɪɢʜᴛᴍᴏᴅᴇ"
 __HELP__ = """
 ## Nɪɢʜᴛᴍᴏᴅᴇ Cᴏᴍᴍᴀɴᴅs Hᴇᴘ
 
-### 1. /nightmode
+### 1. /ɴɪɢʜᴛᴍᴏᴅᴇ
 **Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
 Eɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ɴɪɢʜᴛᴍᴏᴅᴇ ɪɴ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴄʜᴀᴛ.
 
