@@ -48,7 +48,7 @@ channel = ["channel"]
 # ========================================= #
 
 
-@app.on_message(filters.command(["ip", "iyush"], prefixes=["V", "P"]) & admin_filter)
+@app.on_message(filters.command(["ip", "hush"], prefixes=["V", "H"]) & admin_filter)
 async def restriction_app(app: app, message):
     reply = message.reply_to_message
     chat_id = message.chat.id
@@ -85,7 +85,7 @@ async def restriction_app(app: app, message):
                 else:
                     await app.ban_chat_member(chat_id, user_id)
                     await app.unban_chat_member(chat_id, user_id)
-                    await message.reply("get lost! bhga diya bhosdi wale ko")
+                    await message.reply("get lost!")
 
         for muted in data:
             print(f"present {muted}")
@@ -144,12 +144,12 @@ async def restriction_app(app: app, message):
                 await message.reply("demoted !")
 
 
-__MODULE__ = "Sᴍᴀʀᴛ Bᴀɴ"
+__MODULE__ = "ꜱᴍᴀʀᴛ ʙᴀɴ"
 __HELP__ = """
-- `Vɪᴘ`: [Bᴀɴ ᴏʀ ᴜɴʙᴀɴ] ᴜsᴇʀs.
-- `Pɪʏᴜsʜ`: [Mᴜᴛᴇ, ᴋɪᴄᴋ, ᴘʀᴏᴍᴏᴛᴇ, ᴏʀ ᴅᴇᴍᴏᴛᴇ] ᴜsᴇʀs.
+- `ᴠɪᴘ`: [Bᴀɴ ᴏʀ ᴜɴʙᴀɴ] ᴜsᴇʀs.
+- `ʜᴜꜱʜ`: [Mᴜᴛᴇ, ᴋɪᴄᴋ, ᴘʀᴏᴍᴏᴛᴇ, ᴏʀ ᴅᴇᴍᴏᴛᴇ] ᴜsᴇʀs.
 
-Exᴀᴍᴘᴇ:- Vɪᴘ ʙᴀɴ ᴛʜɪs ᴜsᴇʀ (ʀᴇᴘɪᴇᴅ ʜɪs ᴍᴇssᴀɢᴇ).
+Exᴀᴍᴘʟᴇ:- Vɪᴘ ʙᴀɴ ᴛʜɪs ᴜsᴇʀ (ʀᴇᴘɪᴇᴅ ʜɪs ᴍᴇssᴀɢᴇ).
 
 Nᴏᴛᴇ:- ᴜsᴇ ᴡɪᴛʜᴏᴜᴛ ᴄᴏᴍᴍᴀɴᴅ.
 """
