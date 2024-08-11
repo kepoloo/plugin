@@ -72,20 +72,20 @@ async def check_ccbin(client, message):
         )
 
 
-__MODULE__ = "CC-BIN"
+__MODULE__ = "ᴄᴄ-ʙɪɴ"
 __HELP__ = """
 ## CC-BIN Cᴏᴍᴍᴀɴᴅ
 
-### Cᴏᴍᴍᴀɴᴅ: /ʙɪɴ, /ᴄᴄʙɪɴ, /ʙɪɴɪɴғᴏ
+### Cᴏᴍᴍᴀɴᴅ: /bin, /ccbin, /bininfo
 **Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
-Fᴇᴛᴄʜᴇs ᴅᴇᴛᴀɪs ᴀʙᴏᴜᴛ ᴀ ɢɪᴠᴇɴ BIN (Bᴀɴᴋ Iᴅᴇɴᴛɪғɪᴄᴀᴛɪᴏɴ Nᴜᴍʙᴇʀ).
+Fʟᴇᴛᴄʜᴇs ᴅᴇᴛᴀɪs ᴀʙᴏᴜᴛ ᴀ ɢɪᴠᴇɴ BIN (Bᴀɴᴋ Iᴅᴇɴᴛɪғɪᴄᴀᴛɪᴏɴ Nᴜᴍʙᴇʀ).
 
 **Usᴀɢᴇ:**
-/ʙɪɴ BIN_NUMBER
-/ᴄᴄʙɪɴ BIN_NUMBER
-/ʙɪɴɪɴғᴏ BIN_NUMBER
+/bin BIN_NUMBER
+/ccbin BIN_NUMBER
+/bininfo BIN_NUMBER
 
-**Dᴇᴛᴀɪs:**
+**Dᴇᴛᴀɪʟs:**
 - Pʀᴏᴠɪᴅᴇs ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴀɴᴋ, ᴄᴏᴜɴᴛʀʏ, ᴛʏᴘᴇ, ᴀɴᴅ ᴠᴇɴᴅᴏʀ ғᴏʀ ᴛʜᴇ sᴘᴇᴄɪғɪᴇᴅ BIN.
 - Aɴᴛɪ-sᴘᴀᴍ ᴍᴇᴀsᴜʀᴇs ᴀʀᴇ ɪɴ ᴘᴀᴄᴇ ᴛᴏ ᴘʀᴇᴠᴇɴᴛ ᴄᴏᴍᴍᴀɴᴅ sᴘᴀᴍᴍɪɴɢ. Usᴇʀs ᴄᴀɴ ᴏɴʏ ᴜsᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴛᴡɪᴄᴇ ᴡɪᴛʜɪɴ 5 sᴇᴄᴏɴᴅs.
 
