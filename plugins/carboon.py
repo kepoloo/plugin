@@ -31,7 +31,7 @@ async def _carbon(client, message):
     carbon.close()
 
 
-__MODULE__ = "Cᴀʀʙᴏɴ"
+__MODULE__ = "ᴄᴀʀʙᴏɴ"
 __HELP__ = """
 **Cᴀʀʙᴏɴ Cᴏᴍᴍᴀɴᴅ**
 
