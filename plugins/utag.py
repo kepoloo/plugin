@@ -38,7 +38,7 @@ async def tag_all_users(_, message):
             async for m in app.get_chat_members(message.chat.id):
                 if m.user.is_bot:
                     continue
-                usernum += 1
+                usernum += 30
                 usertxt += f"\n⊚ [{m.user.first_name}](tg://user?id={m.user.id})\n"
                 if usernum == 5:
                     await app.send_message(
@@ -69,17 +69,17 @@ async def stop_tagging(_, message):
         await message.reply_text("**ᴜᴛᴀɢ ᴘʀᴏᴄᴇss ɪs ɴᴏᴛ ᴀᴄᴛɪᴠᴇ**")
 
 
-__MODULE__ = "Uɴʟɪᴍɪᴛᴇᴅ Tᴀɢ"
+__MODULE__ = "ᴜɴʟɪᴍɪᴛᴇᴅ ᴛᴀɢ"
 __HELP__ = """
-**Uɴɪᴍɪᴛᴇᴅ Tᴀɢɢɪɴɢ**
+**Uɴʟɪᴍɪᴛᴇᴅ Tᴀɢɢɪɴɢ**
 
-Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴛᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜᴏᴜᴛ ɪᴍɪᴛᴀᴛɪᴏɴs.
+Tʜɪs ᴍᴏᴅᴜʟᴇ ᴀʟʟᴏᴡs ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴛᴏ ᴛᴀɢ ᴀ ᴜsᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜᴏᴜᴛ ɪᴍɪᴛᴀᴛɪᴏɴs.
 
 Cᴏᴍᴍᴀɴᴅs:
-- /ᴜᴛᴀɢ: Sᴛᴀʀᴛ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴜɴɪᴍɪᴛᴇᴅ ᴛɪᴍᴇs.
-- /sᴛᴏᴘᴜᴛᴀɢ: Sᴛᴏᴘ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /utag: Sᴛᴀʀᴛ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴜɴʟɪᴍɪᴛᴇᴅ ᴛɪᴍᴇs.
+- /stoputag: Sᴛᴏᴘ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
 Nᴏᴛᴇ:
-- Oɴʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
-- Usᴇ /ᴜᴛᴀɢ ᴛᴏ sᴛᴀʀᴛ ᴜɴɪᴍɪᴛᴇᴅ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs, ᴀɴᴅ /sᴛᴏᴘᴜᴛᴀɢ ᴛᴏ sᴛᴏᴘ ᴛᴀɢɢɪɴɢ.
+- Oɴʟʏ ᴀᴅᴍɪɴɪsᴛʀᴀᴛᴏʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs.
+- Usᴇ /ᴜᴛᴀɢ ᴛᴏ sᴛᴀʀᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴛᴀɢɢɪɴɢ ᴀ ᴜsᴇʀs, ᴀɴᴅ /sᴛᴏᴘᴜᴛᴀɢ ᴛᴏ sᴛᴏᴘ ᴛᴀɢɢɪɴɢ.
 """
