@@ -10,13 +10,13 @@ from VIPMUSIC.utils.vip_ban import admin_filter
 vip_text = [
     "hey please don't disturb me.",
     "who are you",
-    "aap kon ho",
-    "aap mere owner to nhi lgte ",
-    "hey tum mera name kyu le rhe ho meko sone do",
-    "ha bolo kya kaam hai ",
-    "dekho abhi mai busy hu ",
+    "fuck you dude",
+    "You don't look like my owner",
+    "hey why are you calling my name let me sleep",
+    "tell me what is the work",
+    "Look, I'm busy right now",
     "hey i am busy",
-    "aapko smj nhi aata kya ",
+    "don't you understand what",
     "leave me alone",
     "dude what happend",
 ]
@@ -24,9 +24,9 @@ vip_text = [
 strict_txt = [
     "i can't restrict against my besties",
     "are you serious i am not restrict to my friends",
-    "fuck you bsdk k mai apne dosto ko kyu kru",
+    "fuck you guys why should i tell my friends",
     "hey stupid admin ",
-    "ha ye phele krlo maar lo ek dusre ki gwaand",
+    "yes do this first, kill each other's enemies",
     "i can't hi is my closest friend",
     "i love him please don't restict this user try to usertand ",
 ]
