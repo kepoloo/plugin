@@ -99,7 +99,7 @@ async def cancelcmd(_, message):
         return
 
 
-__MODULE__ = "Tᴀɢ Aʟʟ"
+__MODULE__ = "ᴛᴀɢ ᴀʟʟ"
 __HELP__ = """
 **Tᴀɢ A Usᴇʀs**
 
