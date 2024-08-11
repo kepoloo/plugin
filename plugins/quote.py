@@ -297,7 +297,7 @@ async def msg_quotly_cmd(self: app, ctx: Message):
         return await ctx.reply_msg(f"ERROR: {e}")
 
 
-__MODULE__ = "Qᴜᴏᴛʟʏ"
+__MODULE__ = "ᴏ̨ᴜᴏᴛʟʏ"
 __HELP__ = """
 ## Qᴜᴏᴛʟʏ Cᴏᴍᴍᴀɴᴅ Hᴇᴘ
 
