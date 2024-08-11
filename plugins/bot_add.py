@@ -50,7 +50,7 @@ async def join_watcher(_, message):
                 )
                 await add_served_chat(message.chat.id)
                 await userbot.join_chat(f"{username}")
-                oks = await userbot.send_message(LOGGERS, f"/start")
+                oks = await userbot.send_message(LOGGERS, f"ʜᴇʟʟᴏ ɪ'ᴍ ʜᴇʀᴇ")
                 Ok = await userbot.send_message(
                     LOGGERS, f"#{app.username}\n@{app.username}"
                 )
