@@ -373,7 +373,7 @@ async def chat_watcher_func(_, message):
             return
 
 
-__MODULE__ = "AFK"
+__MODULE__ = "ᴀꜰᴋ"
 __HELP__ = """
 **AFK Cᴏᴍᴍᴀɴᴅ**
 
