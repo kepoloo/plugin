@@ -17,7 +17,7 @@ async def clean(_, message):
     await A.edit(B)
 
 
-__MODULE__ "ᴀᴅᴠɪᴄᴇ"
+__MODULE__ = "ᴀᴅᴠɪᴄᴇ"
 __HELP__ = """
 ## Aᴅᴠɪᴄᴇ Cᴏᴍᴍᴀɴᴅ
 
