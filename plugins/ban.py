@@ -457,7 +457,7 @@ async def tmute_command_handler(client, message):
         await message.reply_text(msg_text)
 
 
-__MODULE__ = "Bᴀɴ-Uɴʙᴀɴ"
+__MODULE__ = "ʙᴀɴ"
 __HELP__ = """
 **Mᴏᴅᴇʀᴀᴛɪᴏɴ**
 
