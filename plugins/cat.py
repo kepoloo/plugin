@@ -54,19 +54,19 @@ async def refresh_cat(c, m: CallbackQuery):
         await m.edit_message_text("Failed to refresh cat picture 🙀")
 
 
-__MODULE__ = "Cᴀᴛ"
+__MODULE__ = "ᴄᴀᴛ"
 __HELP__ = """
 ## Cᴀᴛ Cᴏᴍᴍᴀɴᴅ
 
-### Cᴏᴍᴍᴀɴᴅ: /ᴄᴀᴛ
+### Cᴏᴍᴍᴀɴᴅ: /cat
 **Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
 Fᴇᴛᴄʜᴇs ᴀ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ᴘɪᴄᴛᴜʀᴇ ᴏʀ GIF ғʀᴏᴍ Tʜᴇ Cᴀᴛ API ᴀɴᴅ sᴇɴᴅs ɪᴛ ɪɴ ᴛʜᴇ ᴄʜᴀᴛ.
 
 **Usᴀɢᴇ:**
-/ᴄᴀᴛ
+/cat
 
-**Dᴇᴛᴀɪs:**
-- Dɪsᴘᴀʏs ᴀ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ɪᴍᴀɢᴇ ᴏʀ GIF.
+**Dᴇᴛᴀɪʟs:**
+- Dɪsᴘʟᴀʏs ᴀ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ɪᴍᴀɢᴇ ᴏʀ GIF.
 - Iɴᴄᴜᴅᴇs ʙᴜᴛᴛᴏɴs ғᴏʀ ʀᴇғʀᴇsʜɪɴɢ ᴛʜᴇ ᴄᴀᴛ ɪᴍᴀɢᴇ ᴏʀ ᴄᴏsɪɴɢ ᴛʜᴇ ᴍᴇssᴀɢᴇ.
 
 **Exᴀᴍᴘᴇs:**
