@@ -262,7 +262,7 @@ async def chat_watcher_func(_, message):
                                 caption=f"**{replied_first_name[:25]}** ɪs ᴀғᴋ sɪɴᴄᴇ {seenago}\n\nʀᴇᴀsᴏɴ: `{reasonafk}`\n\n",
                             )
                 except Exception:
-                    msg += f"**{replied_first_name}** ɪs ᴀғᴋ,\nᴩᴀᴛᴀ ɴɪ ʙᴄ ᴋᴀʙ sᴇ\n\n"
+                    msg += f"**{replied_first_name}** ɪs ᴀғᴋ,\nɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴊᴜꜱᴛ ᴡʜᴇɴ\n\n"
         except:
             pass
 
@@ -350,7 +350,7 @@ async def chat_watcher_func(_, message):
                             else:
                                 send = await message.reply_animation(
                                     data,
-                                    caption=f"**{first_name[:25]}** ɪs AFK sɪɴᴄᴇ {seenago}\n\nʀᴇᴀsᴏɴ: `{reasonafk}`\n\n",
+                                    caption=f"**{first_name[:25]}** ɪs ᴀғᴋ sɪɴᴄᴇ {seenago}\n\nʀᴇᴀsᴏɴ: `{reasonafk}`\n\n",
                                 )
                         if afktype == "photo":
                             if str(reasonafk) == "None":
