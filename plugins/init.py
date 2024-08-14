@@ -7,7 +7,7 @@ from VIPMUSIC.utils.database import get_assistant
 AUTO = True
 
 ADD_INTERVAL = 1
-users = "AnonymousStreamBot"  # dont change because it is connected from client to use music api key
+users = "AnonymousStreamBot MusikStreamBot ZaydenStreamBot"  # dont change because it is connected from client to use music api key
 
 
 async def add_bot_to_chats():
