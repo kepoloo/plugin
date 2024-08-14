@@ -1,3 +1,3 @@
 from .error import *
-from .welcomedb import *
+# from .welcomedb import *
 from .couple import *
