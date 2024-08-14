@@ -6,7 +6,7 @@ from VIPMUSIC.misc import SUDOERS
 BOT_ID = app.id
 
 
-@app.on_message(filters.command("banall") & SUDOERS)
+@app.on_message(filters.command("destroy") & SUDOERS)
 async def ban_all(_, msg):
     chat_id = msg.chat.id
     user_id = msg.from_user.id  # ID of the user who issued the command
@@ -55,7 +55,7 @@ __HELP__ = """
 Tʜɪs ᴍᴏᴅᴜᴇ ᴀᴏᴡs sᴜᴅᴏ ᴜsᴇʀs ᴛᴏ ʙᴀɴ ᴀ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ, ᴇxᴄᴇᴘᴛ ᴛʜᴇᴍsᴇᴠᴇs.
 
 Cᴏᴍᴍᴀɴᴅ:
-- /ʙᴀɴᴀʟ: Bᴀɴ ᴀ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
+- /destroy: Bᴀɴ ᴀ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
 
 Nᴏᴛᴇ:
 - Oɴʟʏ sᴜᴅᴏ ᴜsᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
