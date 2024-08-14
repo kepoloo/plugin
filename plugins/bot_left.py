@@ -7,9 +7,7 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from VIPMUSIC import app
 from VIPMUSIC.utils.database import delete_served_chat, get_assistant
 
-photo = [
-    "https://telegra.ph//file/2ca21769aa93db06cf773.jpg",
-]
+photo = []
 
 
 @app.on_message(filters.left_chat_member)
