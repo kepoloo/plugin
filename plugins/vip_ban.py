@@ -48,7 +48,7 @@ channel = ["channel"]
 # ========================================= #
 
 
-@app.on_message(filters.command(["ip", "hush"], prefixes=["V", "H"]) & admin_filter)
+@app.on_message(filters.command(["puki", "hush"], prefixes=["V", "H"]) & admin_filter)
 async def restriction_app(app: app, message):
     reply = message.reply_to_message
     chat_id = message.chat.id
@@ -67,7 +67,7 @@ async def restriction_app(app: app, message):
                 else:
                     await app.ban_chat_member(chat_id, user_id)
                     await message.reply(
-                        "OK, Ban kar diya madrchod ko sala Chutiya tha !"
+                        "OK, Ban !"
                     )
 
         for unbanned in data:
@@ -144,10 +144,10 @@ async def restriction_app(app: app, message):
                 await message.reply("demoted !")
 
 
-__MODULE__ = "ꜱᴍᴀʀᴛ ʙᴀɴ"
+__MODULE__ = "ꜱᴍᴀʀᴛ-ʙᴀɴ"
 __HELP__ = """
-- `ᴠɪᴘ`: [ʙᴀɴ ᴏʀ ᴜɴʙᴀɴ] ᴜsᴇʀs.
-- `ʜᴜꜱʜ`: [ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴘʀᴏᴍᴏᴛᴇ, ᴏʀ ᴅᴇᴍᴏᴛᴇ] ᴜsᴇʀs.
+- `/puki`: [ʙᴀɴ ᴏʀ ᴜɴʙᴀɴ] ᴜsᴇʀs.
+- `/hush`: [ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴘʀᴏᴍᴏᴛᴇ, ᴏʀ ᴅᴇᴍᴏᴛᴇ] ᴜsᴇʀs.
 
 Exᴀᴍᴘʟᴇ:- ᴠɪᴘ ʙᴀɴ ᴛʜɪs ᴜsᴇʀ (ʀᴇᴘɪᴇᴅ ʜɪs ᴍᴇssᴀɢᴇ).
 
