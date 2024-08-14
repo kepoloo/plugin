@@ -7,9 +7,7 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from VIPMUSIC import app
 from VIPMUSIC.utils.database import add_served_chat, get_assistant
 
-photo = [
-    "https://telegra.ph//file/2ca21769aa93db06cf773.jpg",
-]
+photo = []
 
 from strings.__init__ import LOGGERS
 
@@ -31,7 +29,7 @@ async def join_watcher(_, message):
                     f"**🍂𝐂ʜᴀᴛ 𝐈ᴅ:** `{message.chat.id}`\n"
                     f"**🔐𝐂ʜᴀᴛ 𝐔sᴇʀɴᴀᴍᴇ:** @{username}\n"
                     f"**📈𝐆ʀᴏᴜᴘ 𝐌ᴇᴍʙᴇʀs:** {count}\n"
-                    f"**🤔𝐀ᴅᴅᴇᴅ 𝐁ʏ:** {message.from_user.mention}"
+                    f"**🤔𝐀ᴅᴅᴇᴅ 𝐁ʏ:** {message.from_user.id}"
                 )
                 await app.send_photo(
                     LOG_GROUP_ID,
