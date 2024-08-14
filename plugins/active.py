@@ -122,7 +122,7 @@ async def start(client: Client, message: Message):
     )
 
 
-__MODULE__ = "ᴀᴄᴛɪᴠᴇ"
+__MODULE__ = ""
 __HELP__ = """
 ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇ/ᴠɪᴅᴇᴏ ᴄʜᴀᴛs ᴄᴏᴍᴍᴀɴᴅs
 
