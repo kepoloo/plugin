@@ -16,9 +16,7 @@ user_command_count = {}
 SPAM_THRESHOLD = 2
 SPAM_WINDOW_SECONDS = 5
 
-random_photo = [
-    "https://telegra.ph//file/2ca21769aa93db06cf773.jpg",
-]
+random_photo = []
 
 # --------------------------------------------------------------------------------- #
 
@@ -114,7 +112,7 @@ async def userstatus(user_id):
 
 @app.on_message(
     filters.command(
-        ["info", "userinfo"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]
+        ["userinfo"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]
     )
 )
 async def userinfo(_, message):
@@ -259,6 +257,5 @@ async def userinfo(_, message):
 
 __MODULE__ = "ᴜꜱᴇʀ ɪɴꜰᴏ"
 __HELP__ = """
-/info [ᴜsᴇʀ_ɪᴅ]: Gᴇᴛ ᴅᴇᴛᴀɪʟᴇᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.
-/userinfo [ᴜsᴇʀ_ɪᴅ]: Aʟɪᴀs ғᴏʀ /ɪɴғᴏ.
+/userinfo [ᴜsᴇʀ_ɪᴅ]: ᴀʟɪᴀs ғᴏʀ /ɪɴғᴏ.
 """
