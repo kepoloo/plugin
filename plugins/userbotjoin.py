@@ -201,7 +201,7 @@ async def leave_all(client, message):
         )
 
 
-__MODULES__ = "ᴜꜱᴇʀʙᴏᴛᴊᴏɪɴ"
+__MODULES__ = ""
 __HELP__ = """
 /userbotjoin: Iɴᴠɪᴛᴇs ᴛʜᴇ ᴜsᴇʀʙᴏᴛ ᴛᴏ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ.
 /userbotleave: Mᴀᴋᴇs ᴛʜᴇ ᴜsᴇʀʙᴏᴛ ʟᴇᴀᴠᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ.
