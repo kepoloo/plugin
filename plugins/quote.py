@@ -299,24 +299,24 @@ async def msg_quotly_cmd(self: app, ctx: Message):
 
 __MODULE__ = "ᴏ̨ᴜᴏᴛʟʏ"
 __HELP__ = """
-## Qᴜᴏᴛʟʏ Cᴏᴍᴍᴀɴᴅ Hᴇᴘ
+quotly command help
 
-**Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
-Tʜɪs ᴄᴏᴍᴍᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇs ᴀ sᴛʏɪᴢᴇᴅ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴀ ᴍᴇssᴀɢᴇ ᴏʀ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs.
+**description:**
+this command generates a stylized ǫuote from a message or a range of messages.
 
-**Usᴀɢᴇ:**
-/q - Gᴇɴᴇʀᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ.
-/r - Gᴇɴᴇʀᴀᴛᴇ ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs.
+**usage:**
+/q - generate a ǫuote from the repied message.
+/r - generate a ǫuote from a range of messages.
 
-**Dᴇᴛᴀɪs:**
-- Sᴜᴘᴘᴏʀᴛs ɢᴇɴᴇʀᴀᴛɪɴɢ ǫᴜᴏᴛᴇs ғʀᴏᴍ sɪɴɢᴇ ᴍᴇssᴀɢᴇs ᴏʀ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs.
-- Tʜᴇ `/ǫ` ᴄᴏᴍᴍᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇs ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴛʜᴇ ʀᴇᴘɪᴇᴅ ᴍᴇssᴀɢᴇ.
-- Tʜᴇ `/ʀ` ᴄᴏᴍᴍᴀɴᴅ ɢᴇɴᴇʀᴀᴛᴇs ᴀ ǫᴜᴏᴛᴇ ғʀᴏᴍ ᴀ ʀᴀɴɢᴇ ᴏғ ᴍᴇssᴀɢᴇs, sᴘᴇᴄɪғɪᴇᴅ ʙʏ ᴀ ɴᴜᴍʙᴇʀ ғᴏᴏᴡɪɴɢ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ.
-- Tʜᴇ ʀᴀɴɢᴇ ᴍᴜsᴛ ʙᴇ ʙᴇᴛᴡᴇᴇɴ 2 ᴀɴᴅ 10 ᴍᴇssᴀɢᴇs.
-- Tʜᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ ǫᴜᴏᴛᴇ ɪs ʀᴇᴛᴜʀɴᴇᴅ ᴀs ᴀ sᴛɪᴄᴋᴇʀ.
+**details:**
+- supports generating ǫuotes from singe messages or a range of messages.
+- the `/ǫ` command generates a ǫuote from the repied message.
+- the `/r` command generates a ǫuote from a range of messages, specified by a number foowing the command.
+- the range must be between 2 and 10 messages.
+- the generated ǫuote is returned as a sticker.
 
-**Exᴀᴍᴘʟᴇs:**
-- /ǫ
-- /ʀ 5
+**Examples:**
+- /ǫ
+- /r 5
 
 """
